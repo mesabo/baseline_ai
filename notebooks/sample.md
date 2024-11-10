@@ -62,7 +62,3 @@ plt.xlabel('Date')
 plt.ylabel('Yield (kg)')
 plt.show()
 ```
-
----
-
-This concludes the initial EDA on the farm fishing dataset. The data is ready for further analysis or model development, particularly for time series forecasting models.
