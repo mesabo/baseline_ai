@@ -1,3 +1,11 @@
 numpy
 panda
 matplotlib
+seaborn
+scikit-learn
+scipy
+
+# pytorch packages
+torch
+torchvision
+torchaudio
