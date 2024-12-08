@@ -75,20 +75,17 @@ class CIFAR10Model(nn.Module):
         return x
 
 def RunCNNImageModel1():
-    model = CIFAR10Model()
-
-    if os.path.exists("cifar10model.pth"):
-        model.load_state_dict(torch.load("cifar10model.pth"))
-
-
 
     plt.imshow(trainset.data[7])
     plt.show()
-
     X = torch.tensor([trainset.data[7]], dtype=torch.float32).permute(0,3,1,2)
 
-    model.eval()
 
+    model = CIFAR10Model()
+    if os.path.exists("cifar10_model.pth"):
+        model.load_state_dict(torch.load("cifar10_model.pth"))
+
+    model.eval()
     with torch.no_grad():
         feature_maps = model.conv1(X)
 
@@ -104,8 +101,8 @@ def RunCNNImageModel1():
         feature_maps = model.act1(model.conv1(X))
         feature_maps = model.drop1(feature_maps)
         feature_maps = model.conv2(feature_maps)
-    fig, ax = plt.subplots(4, 8, sharex=True, sharey=True, figsize=(16,8))
 
+    fig, ax = plt.subplots(4, 8, sharex=True, sharey=True, figsize=(16,8))
     for i in range(0, 32):
         row, col = i//8, i%8
         ax[row][col].imshow(feature_maps[0][i])
@@ -122,6 +119,7 @@ def RunCNNImageModel2():
             # forward, backward, and then weight update
             y_pred = model(inputs)
             loss = loss_fn(y_pred, labels)
+
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()

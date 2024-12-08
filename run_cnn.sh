@@ -19,15 +19,22 @@ cd "$SCRIPT_DIR" || exit
 
 # Default output directory
 OUTPUT_DIR="output"
-MODEL_NAME="CNNConv2"
+OPTIM="adam"
+BS="32"
+EPOCH="100"
+MODEL_NAME="CNNConv2" # ["RunCNNImageModel1", "RunCNNImageModel2", "SimpleRegression", "CNNConv1", "CNNConv2"]
 mkdir -p "$OUTPUT_DIR"
 
 # Run main.py with CLI arguments
-python3 main.py \
-    --model_type MODEL_NAME \
-    --optimizer adam \
-    --batch_size 32 \
-    --epochs 100 \
-    --gpu 0 > "$OUTPUT_DIR/cnn-$MODEL_NAME-training.log" 2>&1
 
-echo "Execution complete. Logs saved to $OUTPUT_DIR/cnn-$MODEL_NAME-training.log."
+echo "output dir: $OUTPUT_DIR"
+echo "Model: $MODEL_NAME"
+
+python3 main.py \
+    --model_type "$MODEL_NAME" \
+    --optimizer "$OPTIM" \
+    --batch_size "$BS" \
+    --epochs "$EPOCH" \
+    --gpu "0" > "$OUTPUT_DIR/$MODEL_NAME-$OPTIM-$BS-$EPOCH-training.log" 2>&1
+
+echo "Execution complete. Logs saved to $OUTPUT_DIR/$MODEL_NAME-$OPTIM-$BS-$EPOCH-training.log."

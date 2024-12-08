@@ -223,7 +223,7 @@ def plot_real_predictions(true_values, predicted_values):
     plt.show()
 
 # CLI-enabled main function
-def main():
+def MyClassification():
     """
     Main function to run the selected regression model.
     Parses command-line arguments for model type, optimizer type, batch size, and epochs.
@@ -282,4 +282,4 @@ def main():
     plot_real_predictions(test_y[-20:].numpy(), predictions[-20:])
 
 if __name__ == "__main__":
-    main()
+    MyClassification()
