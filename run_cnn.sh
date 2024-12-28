@@ -22,7 +22,7 @@ OUTPUT_DIR="output"
 OPTIM="adam"
 BS="32"
 EPOCH="100"
-MODEL_NAME="CNNConv2" # ["RunCNNImageModel1", "RunCNNImageModel2", "SimpleRegression", "CNNConv1", "CNNConv2"]
+MODEL_NAME="LSTM" # ["RunCNNImageModel1", "RunCNNImageModel2", "SimpleRegression", "CNNConv1", "CNNConv2"]
 mkdir -p "$OUTPUT_DIR"
 
 # Run main.py with CLI arguments
