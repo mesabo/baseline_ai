@@ -5,205 +5,205 @@ Using device: cpu
 Running LSTM2 Forecasting Model...
 Data Loaded: 1827 rows, 12 columns, size of 21924 
 Starting training...
-Epoch 1/100, Train Loss: 0.4782, Val Loss: 0.0899
+Epoch 1/100, Train Loss: 0.6268, Val Loss: 1.0549
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_1.pth
-Epoch 2/100, Train Loss: 0.0408, Val Loss: 0.0140
+Epoch 2/100, Train Loss: 0.4004, Val Loss: 0.7766
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_2.pth
-Epoch 3/100, Train Loss: 0.0069, Val Loss: 0.0115
+Epoch 3/100, Train Loss: 0.3682, Val Loss: 0.8548
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_3.pth
-Epoch 4/100, Train Loss: 0.0032, Val Loss: 0.0044
+Epoch 4/100, Train Loss: 0.3815, Val Loss: 0.5338
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_4.pth
-Epoch 5/100, Train Loss: 0.0022, Val Loss: 0.0034
+Epoch 5/100, Train Loss: 0.3654, Val Loss: 0.5771
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_5.pth
-Epoch 6/100, Train Loss: 0.0017, Val Loss: 0.0025
+Epoch 6/100, Train Loss: 0.3626, Val Loss: 0.6325
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_6.pth
-Epoch 7/100, Train Loss: 0.0014, Val Loss: 0.0017
+Epoch 7/100, Train Loss: 0.3625, Val Loss: 0.5811
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_7.pth
-Epoch 8/100, Train Loss: 0.0016, Val Loss: 0.0024
+Epoch 8/100, Train Loss: 0.3608, Val Loss: 0.6746
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_8.pth
-Epoch 9/100, Train Loss: 0.0015, Val Loss: 0.0031
+Epoch 9/100, Train Loss: 0.3548, Val Loss: 0.5937
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_9.pth
-Epoch 10/100, Train Loss: 0.0026, Val Loss: 0.0047
+Epoch 10/100, Train Loss: 0.3524, Val Loss: 0.4999
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_10.pth
-Epoch 11/100, Train Loss: 0.0025, Val Loss: 0.0033
+Epoch 11/100, Train Loss: 0.3598, Val Loss: 0.6118
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_11.pth
-Epoch 12/100, Train Loss: 0.0020, Val Loss: 0.0019
+Epoch 12/100, Train Loss: 0.3499, Val Loss: 0.6284
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_12.pth
-Epoch 13/100, Train Loss: 0.0011, Val Loss: 0.0021
+Epoch 13/100, Train Loss: 0.3528, Val Loss: 0.6187
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_13.pth
-Epoch 14/100, Train Loss: 0.0008, Val Loss: 0.0017
+Epoch 14/100, Train Loss: 0.3499, Val Loss: 0.6674
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_14.pth
-Epoch 15/100, Train Loss: 0.0007, Val Loss: 0.0019
+Epoch 15/100, Train Loss: 0.3516, Val Loss: 0.5494
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_15.pth
-Epoch 16/100, Train Loss: 0.0007, Val Loss: 0.0022
+Epoch 16/100, Train Loss: 0.3438, Val Loss: 0.6311
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_16.pth
-Epoch 17/100, Train Loss: 0.0007, Val Loss: 0.0019
+Epoch 17/100, Train Loss: 0.3447, Val Loss: 0.5798
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_17.pth
-Epoch 18/100, Train Loss: 0.0007, Val Loss: 0.0019
+Epoch 18/100, Train Loss: 0.3442, Val Loss: 0.6915
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_18.pth
-Epoch 19/100, Train Loss: 0.0007, Val Loss: 0.0016
+Epoch 19/100, Train Loss: 0.3503, Val Loss: 0.6376
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_19.pth
-Epoch 20/100, Train Loss: 0.0011, Val Loss: 0.0032
+Epoch 20/100, Train Loss: 0.3408, Val Loss: 0.6821
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_20.pth
-Epoch 21/100, Train Loss: 0.0009, Val Loss: 0.0022
+Epoch 21/100, Train Loss: 0.3391, Val Loss: 0.8047
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_21.pth
-Epoch 22/100, Train Loss: 0.0008, Val Loss: 0.0020
+Epoch 22/100, Train Loss: 0.3381, Val Loss: 0.7017
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_22.pth
-Epoch 23/100, Train Loss: 0.0007, Val Loss: 0.0014
+Epoch 23/100, Train Loss: 0.3341, Val Loss: 0.6426
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_23.pth
-Epoch 24/100, Train Loss: 0.0006, Val Loss: 0.0026
+Epoch 24/100, Train Loss: 0.3306, Val Loss: 0.7051
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_24.pth
-Epoch 25/100, Train Loss: 0.0008, Val Loss: 0.0017
+Epoch 25/100, Train Loss: 0.3323, Val Loss: 0.6479
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_25.pth
-Epoch 26/100, Train Loss: 0.0006, Val Loss: 0.0016
+Epoch 26/100, Train Loss: 0.3305, Val Loss: 0.7712
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_26.pth
-Epoch 27/100, Train Loss: 0.0007, Val Loss: 0.0018
+Epoch 27/100, Train Loss: 0.3374, Val Loss: 0.6315
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_27.pth
-Epoch 28/100, Train Loss: 0.0005, Val Loss: 0.0013
+Epoch 28/100, Train Loss: 0.3340, Val Loss: 0.6756
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_28.pth
-Epoch 29/100, Train Loss: 0.0006, Val Loss: 0.0018
+Epoch 29/100, Train Loss: 0.3325, Val Loss: 0.6431
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_29.pth
-Epoch 30/100, Train Loss: 0.0006, Val Loss: 0.0016
+Epoch 30/100, Train Loss: 0.3247, Val Loss: 0.6038
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_30.pth
-Epoch 31/100, Train Loss: 0.0008, Val Loss: 0.0019
+Epoch 31/100, Train Loss: 0.3317, Val Loss: 0.6921
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_31.pth
-Epoch 32/100, Train Loss: 0.0011, Val Loss: 0.0015
+Epoch 32/100, Train Loss: 0.3290, Val Loss: 0.7116
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_32.pth
-Epoch 33/100, Train Loss: 0.0009, Val Loss: 0.0019
+Epoch 33/100, Train Loss: 0.3230, Val Loss: 0.6938
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_33.pth
-Epoch 34/100, Train Loss: 0.0009, Val Loss: 0.0017
+Epoch 34/100, Train Loss: 0.3163, Val Loss: 0.7484
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_34.pth
-Epoch 35/100, Train Loss: 0.0011, Val Loss: 0.0014
+Epoch 35/100, Train Loss: 0.3155, Val Loss: 0.7896
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_35.pth
-Epoch 36/100, Train Loss: 0.0006, Val Loss: 0.0018
+Epoch 36/100, Train Loss: 0.3068, Val Loss: 0.7498
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_36.pth
-Epoch 37/100, Train Loss: 0.0008, Val Loss: 0.0014
+Epoch 37/100, Train Loss: 0.3031, Val Loss: 0.7496
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_37.pth
-Epoch 38/100, Train Loss: 0.0008, Val Loss: 0.0016
+Epoch 38/100, Train Loss: 0.3118, Val Loss: 0.9460
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_38.pth
-Epoch 39/100, Train Loss: 0.0007, Val Loss: 0.0015
+Epoch 39/100, Train Loss: 0.3078, Val Loss: 0.8606
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_39.pth
-Epoch 40/100, Train Loss: 0.0005, Val Loss: 0.0016
+Epoch 40/100, Train Loss: 0.3020, Val Loss: 0.7387
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_40.pth
-Epoch 41/100, Train Loss: 0.0005, Val Loss: 0.0010
+Epoch 41/100, Train Loss: 0.2974, Val Loss: 0.7562
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_41.pth
-Epoch 42/100, Train Loss: 0.0007, Val Loss: 0.0014
+Epoch 42/100, Train Loss: 0.2871, Val Loss: 0.8835
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_42.pth
-Epoch 43/100, Train Loss: 0.0005, Val Loss: 0.0013
+Epoch 43/100, Train Loss: 0.2859, Val Loss: 0.9407
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_43.pth
-Epoch 44/100, Train Loss: 0.0004, Val Loss: 0.0019
+Epoch 44/100, Train Loss: 0.2876, Val Loss: 0.8378
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_44.pth
-Epoch 45/100, Train Loss: 0.0006, Val Loss: 0.0015
+Epoch 45/100, Train Loss: 0.2847, Val Loss: 0.7966
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_45.pth
-Epoch 46/100, Train Loss: 0.0006, Val Loss: 0.0012
+Epoch 46/100, Train Loss: 0.2784, Val Loss: 0.8103
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_46.pth
-Epoch 47/100, Train Loss: 0.0006, Val Loss: 0.0010
+Epoch 47/100, Train Loss: 0.2828, Val Loss: 0.8278
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_47.pth
-Epoch 48/100, Train Loss: 0.0010, Val Loss: 0.0016
+Epoch 48/100, Train Loss: 0.2680, Val Loss: 0.9344
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_48.pth
-Epoch 49/100, Train Loss: 0.0005, Val Loss: 0.0012
+Epoch 49/100, Train Loss: 0.2658, Val Loss: 0.9919
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_49.pth
-Epoch 50/100, Train Loss: 0.0004, Val Loss: 0.0013
+Epoch 50/100, Train Loss: 0.2582, Val Loss: 0.8131
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_50.pth
-Epoch 51/100, Train Loss: 0.0006, Val Loss: 0.0011
+Epoch 51/100, Train Loss: 0.2565, Val Loss: 0.8872
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_51.pth
-Epoch 52/100, Train Loss: 0.0004, Val Loss: 0.0017
+Epoch 52/100, Train Loss: 0.2538, Val Loss: 0.8271
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_52.pth
-Epoch 53/100, Train Loss: 0.0004, Val Loss: 0.0013
+Epoch 53/100, Train Loss: 0.2437, Val Loss: 0.9429
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_53.pth
-Epoch 54/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 54/100, Train Loss: 0.2502, Val Loss: 0.9645
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_54.pth
-Epoch 55/100, Train Loss: 0.0004, Val Loss: 0.0011
+Epoch 55/100, Train Loss: 0.2556, Val Loss: 0.8132
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_55.pth
-Epoch 56/100, Train Loss: 0.0003, Val Loss: 0.0011
+Epoch 56/100, Train Loss: 0.2369, Val Loss: 0.9874
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_56.pth
-Epoch 57/100, Train Loss: 0.0006, Val Loss: 0.0012
+Epoch 57/100, Train Loss: 0.2348, Val Loss: 0.9761
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_57.pth
-Epoch 58/100, Train Loss: 0.0005, Val Loss: 0.0012
+Epoch 58/100, Train Loss: 0.2241, Val Loss: 0.9156
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_58.pth
-Epoch 59/100, Train Loss: 0.0004, Val Loss: 0.0012
+Epoch 59/100, Train Loss: 0.2151, Val Loss: 0.9917
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_59.pth
-Epoch 60/100, Train Loss: 0.0004, Val Loss: 0.0011
+Epoch 60/100, Train Loss: 0.2228, Val Loss: 0.8510
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_60.pth
-Epoch 61/100, Train Loss: 0.0005, Val Loss: 0.0012
+Epoch 61/100, Train Loss: 0.2197, Val Loss: 0.9281
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_61.pth
-Epoch 62/100, Train Loss: 0.0006, Val Loss: 0.0012
+Epoch 62/100, Train Loss: 0.2228, Val Loss: 0.9697
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_62.pth
-Epoch 63/100, Train Loss: 0.0004, Val Loss: 0.0016
+Epoch 63/100, Train Loss: 0.2075, Val Loss: 0.9519
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_63.pth
-Epoch 64/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 64/100, Train Loss: 0.2044, Val Loss: 1.0495
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_64.pth
-Epoch 65/100, Train Loss: 0.0005, Val Loss: 0.0017
+Epoch 65/100, Train Loss: 0.1981, Val Loss: 0.9426
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_65.pth
-Epoch 66/100, Train Loss: 0.0006, Val Loss: 0.0023
+Epoch 66/100, Train Loss: 0.1892, Val Loss: 1.0427
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_66.pth
-Epoch 67/100, Train Loss: 0.0008, Val Loss: 0.0012
+Epoch 67/100, Train Loss: 0.1857, Val Loss: 0.8994
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_67.pth
-Epoch 68/100, Train Loss: 0.0004, Val Loss: 0.0015
+Epoch 68/100, Train Loss: 0.1879, Val Loss: 0.8939
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_68.pth
-Epoch 69/100, Train Loss: 0.0006, Val Loss: 0.0018
+Epoch 69/100, Train Loss: 0.1874, Val Loss: 1.0528
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_69.pth
-Epoch 70/100, Train Loss: 0.0004, Val Loss: 0.0011
+Epoch 70/100, Train Loss: 0.1758, Val Loss: 1.0597
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_70.pth
-Epoch 71/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 71/100, Train Loss: 0.1745, Val Loss: 1.0904
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_71.pth
-Epoch 72/100, Train Loss: 0.0006, Val Loss: 0.0025
+Epoch 72/100, Train Loss: 0.1708, Val Loss: 1.2059
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_72.pth
-Epoch 73/100, Train Loss: 0.0007, Val Loss: 0.0017
+Epoch 73/100, Train Loss: 0.1644, Val Loss: 1.0688
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_73.pth
-Epoch 74/100, Train Loss: 0.0007, Val Loss: 0.0012
+Epoch 74/100, Train Loss: 0.1626, Val Loss: 1.0132
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_74.pth
-Epoch 75/100, Train Loss: 0.0005, Val Loss: 0.0013
+Epoch 75/100, Train Loss: 0.1613, Val Loss: 1.0817
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_75.pth
-Epoch 76/100, Train Loss: 0.0004, Val Loss: 0.0014
+Epoch 76/100, Train Loss: 0.1592, Val Loss: 1.0639
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_76.pth
-Epoch 77/100, Train Loss: 0.0003, Val Loss: 0.0014
+Epoch 77/100, Train Loss: 0.1518, Val Loss: 1.1140
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_77.pth
-Epoch 78/100, Train Loss: 0.0005, Val Loss: 0.0013
+Epoch 78/100, Train Loss: 0.1429, Val Loss: 1.0398
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_78.pth
-Epoch 79/100, Train Loss: 0.0003, Val Loss: 0.0009
+Epoch 79/100, Train Loss: 0.1406, Val Loss: 1.1217
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_79.pth
-Epoch 80/100, Train Loss: 0.0003, Val Loss: 0.0010
+Epoch 80/100, Train Loss: 0.1361, Val Loss: 1.2462
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_80.pth
-Epoch 81/100, Train Loss: 0.0003, Val Loss: 0.0011
+Epoch 81/100, Train Loss: 0.1341, Val Loss: 1.2430
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_81.pth
-Epoch 82/100, Train Loss: 0.0002, Val Loss: 0.0010
+Epoch 82/100, Train Loss: 0.1301, Val Loss: 1.1482
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_82.pth
-Epoch 83/100, Train Loss: 0.0003, Val Loss: 0.0013
+Epoch 83/100, Train Loss: 0.1255, Val Loss: 0.9513
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_83.pth
-Epoch 84/100, Train Loss: 0.0004, Val Loss: 0.0016
+Epoch 84/100, Train Loss: 0.1234, Val Loss: 1.1582
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_84.pth
-Epoch 85/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 85/100, Train Loss: 0.1195, Val Loss: 1.1478
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_85.pth
-Epoch 86/100, Train Loss: 0.0002, Val Loss: 0.0010
+Epoch 86/100, Train Loss: 0.1178, Val Loss: 1.1912
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_86.pth
-Epoch 87/100, Train Loss: 0.0003, Val Loss: 0.0012
+Epoch 87/100, Train Loss: 0.1182, Val Loss: 1.1382
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_87.pth
-Epoch 88/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 88/100, Train Loss: 0.1170, Val Loss: 1.1467
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_88.pth
-Epoch 89/100, Train Loss: 0.0005, Val Loss: 0.0010
+Epoch 89/100, Train Loss: 0.1091, Val Loss: 1.1766
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_89.pth
-Epoch 90/100, Train Loss: 0.0004, Val Loss: 0.0010
+Epoch 90/100, Train Loss: 0.0976, Val Loss: 1.2356
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_90.pth
-Epoch 91/100, Train Loss: 0.0003, Val Loss: 0.0011
+Epoch 91/100, Train Loss: 0.0963, Val Loss: 1.1473
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_91.pth
-Epoch 92/100, Train Loss: 0.0004, Val Loss: 0.0009
+Epoch 92/100, Train Loss: 0.0929, Val Loss: 1.0891
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_92.pth
-Epoch 93/100, Train Loss: 0.0002, Val Loss: 0.0010
+Epoch 93/100, Train Loss: 0.0890, Val Loss: 1.1081
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_93.pth
-Epoch 94/100, Train Loss: 0.0002, Val Loss: 0.0009
+Epoch 94/100, Train Loss: 0.0975, Val Loss: 1.0532
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_94.pth
-Epoch 95/100, Train Loss: 0.0002, Val Loss: 0.0009
+Epoch 95/100, Train Loss: 0.0916, Val Loss: 1.1005
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_95.pth
-Epoch 96/100, Train Loss: 0.0002, Val Loss: 0.0007
+Epoch 96/100, Train Loss: 0.0850, Val Loss: 1.0690
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_96.pth
-Epoch 97/100, Train Loss: 0.0002, Val Loss: 0.0008
+Epoch 97/100, Train Loss: 0.0808, Val Loss: 1.1623
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_97.pth
-Epoch 98/100, Train Loss: 0.0002, Val Loss: 0.0011
+Epoch 98/100, Train Loss: 0.0815, Val Loss: 1.1651
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_98.pth
-Epoch 99/100, Train Loss: 0.0002, Val Loss: 0.0009
+Epoch 99/100, Train Loss: 0.0770, Val Loss: 1.1262
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_99.pth
-Epoch 100/100, Train Loss: 0.0003, Val Loss: 0.0007
+Epoch 100/100, Train Loss: 0.0738, Val Loss: 1.1782
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_epoch_100.pth
 Model weights saved to ./output/LSTM2/LSTM2_adam_32_100/model/LSTM2_latest.pth
 Testing model...

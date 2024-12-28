@@ -111,26 +111,36 @@ class RunRNNModel:
         forecast_period = self.args.forecast_days
         target_col = self.args.target_column
         (X_train, y_train), (X_val, y_val), (X_test, y_test), scaler = preprocess_data(
-            df, target_col, look_back, forecast_period
-        )
+            df, target_col, look_back, forecast_period)
 
         # Define model parameters
-        input_size = X_train.shape[2]
+        input_size = X_train.shape[2]  # Todo: What's exactly shape[2]
         lstm_hidden_size = 64
         lstm_num_layers = 2
         bidirectional = False  # Change as needed
         cnn_input_size = lstm_hidden_size * (2 if bidirectional else 1)
 
         # Instantiate the model
-        model = self.model_class(
+        if self.args.model_type in ["LSTM", "LSTM2"]:
+            model = self.model_class(
             input_size=input_size,
-            lstm_hidden_size=lstm_hidden_size,
-            lstm_num_layers=lstm_num_layers,
-            cnn_input_size=cnn_input_size,
+            hidden_size=lstm_hidden_size,
+            num_layers=lstm_num_layers,
             output_size=forecast_period,
             dropout=0.1,  # Optional dropout
             bidirectional=bidirectional
-        ).to(self.device)
+        )
+        else:
+            model = self.model_class(
+                input_size=input_size,
+                hidden_size=lstm_hidden_size,
+                lstm_num_layers=lstm_num_layers,
+                cnn_input_size=cnn_input_size,
+                output_size=forecast_period,
+                dropout=0.1,  # Optional dropout
+                bidirectional=bidirectional
+            )
+        model.to(self.device)
 
         model_save_path = os.path.join(self.output_dir, "model", f"{self.args.model_type}_latest.pth")
         plot_save_path = os.path.join(self.output_dir, "images", f"{self.args.model_type}")
@@ -147,8 +157,7 @@ class RunRNNModel:
             optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
             train_loader = torch.utils.data.DataLoader(
                 torch.utils.data.TensorDataset(torch.tensor(X_train), torch.tensor(y_train)),
-                batch_size=self.args.batch_size, shuffle=True
-            )
+                batch_size=self.args.batch_size, shuffle=True)
             val_loader = torch.utils.data.DataLoader(
                 torch.utils.data.TensorDataset(torch.tensor(X_val), torch.tensor(y_val)),
                 batch_size=self.args.batch_size, shuffle=False

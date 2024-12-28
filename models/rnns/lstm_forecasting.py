@@ -53,7 +53,7 @@ class LSTMForecasting(nn.Module):
         Forward pass of the LSTM model.
 
         Args:
-            x (torch.Tensor): Input tensor of shape (batch_size, look_back, input_size).
+            x (torch.Tensor): Input tensor of shape (batch_size=32, look_back=5, input_size=80...).
 
         Returns:
             torch.Tensor: Output tensor of shape (batch_size, forecast_period).
@@ -147,7 +147,7 @@ class LSTM2CNNForecasting(nn.Module):
 
     Args:
         input_size (int): Number of features in the input.
-        lstm_hidden_size (int): Number of hidden units in the LSTM.
+        hidden_size (int): Number of hidden units in the LSTM.
         lstm_num_layers (int): Number of stacked LSTM layers.
         output_size (int): Number of steps to forecast.
         cnn_input_size (int): The size of the input sequence for CNN.
@@ -158,7 +158,7 @@ class LSTM2CNNForecasting(nn.Module):
     def __init__(
         self,
         input_size,
-        lstm_hidden_size,
+        hidden_size,
         lstm_num_layers,
         cnn_input_size,
         output_size,
@@ -170,13 +170,13 @@ class LSTM2CNNForecasting(nn.Module):
         # LSTM Component
         self.lstm = nn.LSTM(
             input_size=input_size,
-            hidden_size=lstm_hidden_size,
+            hidden_size=hidden_size,
             num_layers=lstm_num_layers,
             batch_first=True,
             dropout=dropout if lstm_num_layers > 1 else 0.0,
             bidirectional=bidirectional,
         )
-        self.lstm_layer_norm = nn.LayerNorm(lstm_hidden_size * (2 if bidirectional else 1))
+        self.lstm_layer_norm = nn.LayerNorm(hidden_size * (2 if bidirectional else 1))
 
         # CNN Component
         self.conv1 = nn.Conv1d(1, 16, kernel_size=3, padding=1)
@@ -200,14 +200,14 @@ class LSTM2CNNForecasting(nn.Module):
             torch.Tensor: Output tensor of shape (batch_size, output_size).
         """
         # LSTM: Process the sequential data
-        lstm_out, _ = self.lstm(x)  # Shape: (batch_size, look_back, lstm_hidden_size * num_directions)
+        lstm_out, _ = self.lstm(x)  # Shape: (batch_size, look_back, hidden_size * num_directions)
         lstm_out = self.lstm_layer_norm(lstm_out)
 
         # Select the last hidden state for each sequence
-        last_hidden_state = lstm_out[:, -1, :]  # Shape: (batch_size, lstm_hidden_size * num_directions)
+        last_hidden_state = lstm_out[:, -1, :]  # Shape: (batch_size, hidden_size * num_directions)
 
         # CNN: Expand dimensions for 1D convolution
-        cnn_input = last_hidden_state.unsqueeze(1)  # Shape: (batch_size, 1, lstm_hidden_size * num_directions)
+        cnn_input = last_hidden_state.unsqueeze(1)  # Shape: (batch_size, 1, hidden_size * num_directions)
         cnn_out = self.conv1(cnn_input)
         cnn_out = self.act1(cnn_out)
         cnn_out = self.pool1(cnn_out)

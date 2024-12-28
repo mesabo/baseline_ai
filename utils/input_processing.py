@@ -13,7 +13,10 @@ Lab: Prof YU Keping's Lab
 """
 import numpy as np
 import pandas as pd
-def create_time_series(dataset, look_back, forecast_period):
+from sklearn.preprocessing import StandardScaler
+
+
+def create_time_series(dataset, look_back, forecast_period, target_col):
     """
     Create time series data for LSTM input and forecasting.
 
@@ -28,10 +31,8 @@ def create_time_series(dataset, look_back, forecast_period):
     X, Y = [], []
     for i in range(len(dataset) - look_back - forecast_period + 1):
         X.append(dataset[i:(i + look_back), :])  # Look-back window
-        Y.append(dataset[(i + look_back):(i + look_back + forecast_period), 0])  # Forecast target
+        Y.append(dataset[(i + look_back) : (i + look_back + forecast_period), 0])  # Forecast target
     return np.array(X), np.array(Y)
-
-from sklearn.preprocessing import StandardScaler
 
 def preprocess_data(df, target_col, look_back, forecast_period):
     """
@@ -56,9 +57,9 @@ def preprocess_data(df, target_col, look_back, forecast_period):
     test_scaled = scaler.transform(test.drop(columns=["Date"]))
 
     # Create time series
-    X_train, y_train = create_time_series(train_scaled, look_back, forecast_period)
-    X_val, y_val = create_time_series(validate_scaled, look_back, forecast_period)
-    X_test, y_test = create_time_series(test_scaled, look_back, forecast_period)
+    X_train, y_train = create_time_series(train_scaled, look_back, forecast_period, target_col)
+    X_val, y_val = create_time_series(validate_scaled, look_back, forecast_period, target_col)
+    X_test, y_test = create_time_series(test_scaled, look_back, forecast_period, target_col)
 
     return (X_train, y_train), (X_val, y_val), (X_test, y_test), scaler
 

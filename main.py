@@ -27,3 +27,4 @@ if __name__ == "__main__":
     # Handle invalid model types
     else:
         print(f"Model type {args.model_type} is not implemented!")
+
