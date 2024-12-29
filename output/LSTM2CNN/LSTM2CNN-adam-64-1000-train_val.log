@@ -1,0 +1,2010 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Code execution.....
+Using device: cpu
+Running LSTM2CNN Forecasting Model...
+Data Loaded: 1827 rows, 12 columns, size of 21924 
+Starting training...
+Epoch 1/1000, Train Loss: 1.0329, Val Loss: 0.8456
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_1.pth
+Epoch 2/1000, Train Loss: 0.9035, Val Loss: 0.7242
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_2.pth
+Epoch 3/1000, Train Loss: 0.7682, Val Loss: 0.6098
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_3.pth
+Epoch 4/1000, Train Loss: 0.6395, Val Loss: 0.5029
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_4.pth
+Epoch 5/1000, Train Loss: 0.5223, Val Loss: 0.4085
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_5.pth
+Epoch 6/1000, Train Loss: 0.4104, Val Loss: 0.3264
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_6.pth
+Epoch 7/1000, Train Loss: 0.3179, Val Loss: 0.2521
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_7.pth
+Epoch 8/1000, Train Loss: 0.2401, Val Loss: 0.1868
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_8.pth
+Epoch 9/1000, Train Loss: 0.1773, Val Loss: 0.1326
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_9.pth
+Epoch 10/1000, Train Loss: 0.1287, Val Loss: 0.0930
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_10.pth
+Epoch 11/1000, Train Loss: 0.0941, Val Loss: 0.0638
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_11.pth
+Epoch 12/1000, Train Loss: 0.0686, Val Loss: 0.0450
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_12.pth
+Epoch 13/1000, Train Loss: 0.0528, Val Loss: 0.0329
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_13.pth
+Epoch 14/1000, Train Loss: 0.0413, Val Loss: 0.0247
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_14.pth
+Epoch 15/1000, Train Loss: 0.0336, Val Loss: 0.0200
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_15.pth
+Epoch 16/1000, Train Loss: 0.0289, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_16.pth
+Epoch 17/1000, Train Loss: 0.0245, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_17.pth
+Epoch 18/1000, Train Loss: 0.0229, Val Loss: 0.0122
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_18.pth
+Epoch 19/1000, Train Loss: 0.0196, Val Loss: 0.0110
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_19.pth
+Epoch 20/1000, Train Loss: 0.0171, Val Loss: 0.0098
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_20.pth
+Epoch 21/1000, Train Loss: 0.0169, Val Loss: 0.0095
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_21.pth
+Epoch 22/1000, Train Loss: 0.0156, Val Loss: 0.0091
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_22.pth
+Epoch 23/1000, Train Loss: 0.0140, Val Loss: 0.0086
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_23.pth
+Epoch 24/1000, Train Loss: 0.0127, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_24.pth
+Epoch 25/1000, Train Loss: 0.0130, Val Loss: 0.0082
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_25.pth
+Epoch 26/1000, Train Loss: 0.0117, Val Loss: 0.0079
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_26.pth
+Epoch 27/1000, Train Loss: 0.0128, Val Loss: 0.0080
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_27.pth
+Epoch 28/1000, Train Loss: 0.0116, Val Loss: 0.0079
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_28.pth
+Epoch 29/1000, Train Loss: 0.0111, Val Loss: 0.0079
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_29.pth
+Epoch 30/1000, Train Loss: 0.0103, Val Loss: 0.0073
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_30.pth
+Epoch 31/1000, Train Loss: 0.0105, Val Loss: 0.0077
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_31.pth
+Epoch 32/1000, Train Loss: 0.0100, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_32.pth
+Epoch 33/1000, Train Loss: 0.0092, Val Loss: 0.0075
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_33.pth
+Epoch 34/1000, Train Loss: 0.0097, Val Loss: 0.0074
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_34.pth
+Epoch 35/1000, Train Loss: 0.0092, Val Loss: 0.0074
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_35.pth
+Epoch 36/1000, Train Loss: 0.0093, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_36.pth
+Epoch 37/1000, Train Loss: 0.0084, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_37.pth
+Epoch 38/1000, Train Loss: 0.0087, Val Loss: 0.0080
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_38.pth
+Epoch 39/1000, Train Loss: 0.0083, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_39.pth
+Epoch 40/1000, Train Loss: 0.0082, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_40.pth
+Epoch 41/1000, Train Loss: 0.0077, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_41.pth
+Epoch 42/1000, Train Loss: 0.0077, Val Loss: 0.0073
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_42.pth
+Epoch 43/1000, Train Loss: 0.0074, Val Loss: 0.0063
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_43.pth
+Epoch 44/1000, Train Loss: 0.0070, Val Loss: 0.0069
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_44.pth
+Epoch 45/1000, Train Loss: 0.0071, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_45.pth
+Epoch 46/1000, Train Loss: 0.0072, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_46.pth
+Epoch 47/1000, Train Loss: 0.0070, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_47.pth
+Epoch 48/1000, Train Loss: 0.0070, Val Loss: 0.0060
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_48.pth
+Epoch 49/1000, Train Loss: 0.0069, Val Loss: 0.0069
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_49.pth
+Epoch 50/1000, Train Loss: 0.0066, Val Loss: 0.0058
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_50.pth
+Epoch 51/1000, Train Loss: 0.0062, Val Loss: 0.0069
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_51.pth
+Epoch 52/1000, Train Loss: 0.0058, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_52.pth
+Epoch 53/1000, Train Loss: 0.0056, Val Loss: 0.0058
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_53.pth
+Epoch 54/1000, Train Loss: 0.0060, Val Loss: 0.0061
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_54.pth
+Epoch 55/1000, Train Loss: 0.0055, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_55.pth
+Epoch 56/1000, Train Loss: 0.0054, Val Loss: 0.0061
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_56.pth
+Epoch 57/1000, Train Loss: 0.0057, Val Loss: 0.0064
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_57.pth
+Epoch 58/1000, Train Loss: 0.0059, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_58.pth
+Epoch 59/1000, Train Loss: 0.0056, Val Loss: 0.0066
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_59.pth
+Epoch 60/1000, Train Loss: 0.0057, Val Loss: 0.0065
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_60.pth
+Epoch 61/1000, Train Loss: 0.0054, Val Loss: 0.0066
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_61.pth
+Epoch 62/1000, Train Loss: 0.0050, Val Loss: 0.0064
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_62.pth
+Epoch 63/1000, Train Loss: 0.0052, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_63.pth
+Epoch 64/1000, Train Loss: 0.0054, Val Loss: 0.0060
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_64.pth
+Epoch 65/1000, Train Loss: 0.0047, Val Loss: 0.0064
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_65.pth
+Epoch 66/1000, Train Loss: 0.0051, Val Loss: 0.0059
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_66.pth
+Epoch 67/1000, Train Loss: 0.0051, Val Loss: 0.0075
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_67.pth
+Epoch 68/1000, Train Loss: 0.0049, Val Loss: 0.0061
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_68.pth
+Epoch 69/1000, Train Loss: 0.0045, Val Loss: 0.0065
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_69.pth
+Epoch 70/1000, Train Loss: 0.0042, Val Loss: 0.0066
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_70.pth
+Epoch 71/1000, Train Loss: 0.0042, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_71.pth
+Epoch 72/1000, Train Loss: 0.0047, Val Loss: 0.0059
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_72.pth
+Epoch 73/1000, Train Loss: 0.0044, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_73.pth
+Epoch 74/1000, Train Loss: 0.0040, Val Loss: 0.0059
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_74.pth
+Epoch 75/1000, Train Loss: 0.0044, Val Loss: 0.0068
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_75.pth
+Epoch 76/1000, Train Loss: 0.0041, Val Loss: 0.0057
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_76.pth
+Epoch 77/1000, Train Loss: 0.0042, Val Loss: 0.0073
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_77.pth
+Epoch 78/1000, Train Loss: 0.0042, Val Loss: 0.0060
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_78.pth
+Epoch 79/1000, Train Loss: 0.0040, Val Loss: 0.0061
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_79.pth
+Epoch 80/1000, Train Loss: 0.0041, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_80.pth
+Epoch 81/1000, Train Loss: 0.0037, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_81.pth
+Epoch 82/1000, Train Loss: 0.0039, Val Loss: 0.0068
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_82.pth
+Epoch 83/1000, Train Loss: 0.0041, Val Loss: 0.0069
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_83.pth
+Epoch 84/1000, Train Loss: 0.0041, Val Loss: 0.0065
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_84.pth
+Epoch 85/1000, Train Loss: 0.0038, Val Loss: 0.0063
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_85.pth
+Epoch 86/1000, Train Loss: 0.0035, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_86.pth
+Epoch 87/1000, Train Loss: 0.0036, Val Loss: 0.0065
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_87.pth
+Epoch 88/1000, Train Loss: 0.0035, Val Loss: 0.0063
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_88.pth
+Epoch 89/1000, Train Loss: 0.0033, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_89.pth
+Epoch 90/1000, Train Loss: 0.0034, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_90.pth
+Epoch 91/1000, Train Loss: 0.0035, Val Loss: 0.0062
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_91.pth
+Epoch 92/1000, Train Loss: 0.0033, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_92.pth
+Epoch 93/1000, Train Loss: 0.0034, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_93.pth
+Epoch 94/1000, Train Loss: 0.0031, Val Loss: 0.0066
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_94.pth
+Epoch 95/1000, Train Loss: 0.0032, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_95.pth
+Epoch 96/1000, Train Loss: 0.0031, Val Loss: 0.0068
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_96.pth
+Epoch 97/1000, Train Loss: 0.0034, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_97.pth
+Epoch 98/1000, Train Loss: 0.0031, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_98.pth
+Epoch 99/1000, Train Loss: 0.0032, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_99.pth
+Epoch 100/1000, Train Loss: 0.0031, Val Loss: 0.0072
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_100.pth
+Epoch 101/1000, Train Loss: 0.0030, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_101.pth
+Epoch 102/1000, Train Loss: 0.0030, Val Loss: 0.0068
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_102.pth
+Epoch 103/1000, Train Loss: 0.0028, Val Loss: 0.0079
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_103.pth
+Epoch 104/1000, Train Loss: 0.0031, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_104.pth
+Epoch 105/1000, Train Loss: 0.0031, Val Loss: 0.0083
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_105.pth
+Epoch 106/1000, Train Loss: 0.0027, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_106.pth
+Epoch 107/1000, Train Loss: 0.0031, Val Loss: 0.0058
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_107.pth
+Epoch 108/1000, Train Loss: 0.0028, Val Loss: 0.0084
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_108.pth
+Epoch 109/1000, Train Loss: 0.0029, Val Loss: 0.0067
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_109.pth
+Epoch 110/1000, Train Loss: 0.0029, Val Loss: 0.0070
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_110.pth
+Epoch 111/1000, Train Loss: 0.0026, Val Loss: 0.0076
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_111.pth
+Epoch 112/1000, Train Loss: 0.0028, Val Loss: 0.0059
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_112.pth
+Epoch 113/1000, Train Loss: 0.0028, Val Loss: 0.0078
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_113.pth
+Epoch 114/1000, Train Loss: 0.0027, Val Loss: 0.0065
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_114.pth
+Epoch 115/1000, Train Loss: 0.0027, Val Loss: 0.0071
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_115.pth
+Epoch 116/1000, Train Loss: 0.0026, Val Loss: 0.0068
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_116.pth
+Epoch 117/1000, Train Loss: 0.0027, Val Loss: 0.0074
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_117.pth
+Epoch 118/1000, Train Loss: 0.0024, Val Loss: 0.0074
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_118.pth
+Epoch 119/1000, Train Loss: 0.0026, Val Loss: 0.0080
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_119.pth
+Epoch 120/1000, Train Loss: 0.0024, Val Loss: 0.0082
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_120.pth
+Epoch 121/1000, Train Loss: 0.0026, Val Loss: 0.0090
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_121.pth
+Epoch 122/1000, Train Loss: 0.0022, Val Loss: 0.0073
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_122.pth
+Epoch 123/1000, Train Loss: 0.0027, Val Loss: 0.0073
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_123.pth
+Epoch 124/1000, Train Loss: 0.0024, Val Loss: 0.0090
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_124.pth
+Epoch 125/1000, Train Loss: 0.0023, Val Loss: 0.0087
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_125.pth
+Epoch 126/1000, Train Loss: 0.0025, Val Loss: 0.0099
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_126.pth
+Epoch 127/1000, Train Loss: 0.0024, Val Loss: 0.0091
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_127.pth
+Epoch 128/1000, Train Loss: 0.0022, Val Loss: 0.0090
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_128.pth
+Epoch 129/1000, Train Loss: 0.0024, Val Loss: 0.0091
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_129.pth
+Epoch 130/1000, Train Loss: 0.0025, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_130.pth
+Epoch 131/1000, Train Loss: 0.0024, Val Loss: 0.0091
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_131.pth
+Epoch 132/1000, Train Loss: 0.0022, Val Loss: 0.0091
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_132.pth
+Epoch 133/1000, Train Loss: 0.0024, Val Loss: 0.0088
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_133.pth
+Epoch 134/1000, Train Loss: 0.0022, Val Loss: 0.0074
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_134.pth
+Epoch 135/1000, Train Loss: 0.0023, Val Loss: 0.0085
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_135.pth
+Epoch 136/1000, Train Loss: 0.0022, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_136.pth
+Epoch 137/1000, Train Loss: 0.0022, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_137.pth
+Epoch 138/1000, Train Loss: 0.0020, Val Loss: 0.0106
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_138.pth
+Epoch 139/1000, Train Loss: 0.0021, Val Loss: 0.0100
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_139.pth
+Epoch 140/1000, Train Loss: 0.0021, Val Loss: 0.0099
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_140.pth
+Epoch 141/1000, Train Loss: 0.0021, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_141.pth
+Epoch 142/1000, Train Loss: 0.0020, Val Loss: 0.0092
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_142.pth
+Epoch 143/1000, Train Loss: 0.0019, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_143.pth
+Epoch 144/1000, Train Loss: 0.0020, Val Loss: 0.0100
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_144.pth
+Epoch 145/1000, Train Loss: 0.0020, Val Loss: 0.0100
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_145.pth
+Epoch 146/1000, Train Loss: 0.0019, Val Loss: 0.0108
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_146.pth
+Epoch 147/1000, Train Loss: 0.0020, Val Loss: 0.0090
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_147.pth
+Epoch 148/1000, Train Loss: 0.0019, Val Loss: 0.0105
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_148.pth
+Epoch 149/1000, Train Loss: 0.0019, Val Loss: 0.0088
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_149.pth
+Epoch 150/1000, Train Loss: 0.0019, Val Loss: 0.0108
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_150.pth
+Epoch 151/1000, Train Loss: 0.0020, Val Loss: 0.0106
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_151.pth
+Epoch 152/1000, Train Loss: 0.0017, Val Loss: 0.0103
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_152.pth
+Epoch 153/1000, Train Loss: 0.0018, Val Loss: 0.0105
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_153.pth
+Epoch 154/1000, Train Loss: 0.0018, Val Loss: 0.0093
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_154.pth
+Epoch 155/1000, Train Loss: 0.0019, Val Loss: 0.0089
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_155.pth
+Epoch 156/1000, Train Loss: 0.0020, Val Loss: 0.0094
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_156.pth
+Epoch 157/1000, Train Loss: 0.0018, Val Loss: 0.0103
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_157.pth
+Epoch 158/1000, Train Loss: 0.0018, Val Loss: 0.0102
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_158.pth
+Epoch 159/1000, Train Loss: 0.0017, Val Loss: 0.0103
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_159.pth
+Epoch 160/1000, Train Loss: 0.0017, Val Loss: 0.0106
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_160.pth
+Epoch 161/1000, Train Loss: 0.0016, Val Loss: 0.0109
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_161.pth
+Epoch 162/1000, Train Loss: 0.0016, Val Loss: 0.0106
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_162.pth
+Epoch 163/1000, Train Loss: 0.0017, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_163.pth
+Epoch 164/1000, Train Loss: 0.0016, Val Loss: 0.0100
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_164.pth
+Epoch 165/1000, Train Loss: 0.0017, Val Loss: 0.0115
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_165.pth
+Epoch 166/1000, Train Loss: 0.0017, Val Loss: 0.0103
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_166.pth
+Epoch 167/1000, Train Loss: 0.0017, Val Loss: 0.0116
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_167.pth
+Epoch 168/1000, Train Loss: 0.0016, Val Loss: 0.0110
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_168.pth
+Epoch 169/1000, Train Loss: 0.0017, Val Loss: 0.0111
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_169.pth
+Epoch 170/1000, Train Loss: 0.0013, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_170.pth
+Epoch 171/1000, Train Loss: 0.0016, Val Loss: 0.0103
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_171.pth
+Epoch 172/1000, Train Loss: 0.0015, Val Loss: 0.0106
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_172.pth
+Epoch 173/1000, Train Loss: 0.0015, Val Loss: 0.0115
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_173.pth
+Epoch 174/1000, Train Loss: 0.0015, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_174.pth
+Epoch 175/1000, Train Loss: 0.0015, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_175.pth
+Epoch 176/1000, Train Loss: 0.0015, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_176.pth
+Epoch 177/1000, Train Loss: 0.0016, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_177.pth
+Epoch 178/1000, Train Loss: 0.0014, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_178.pth
+Epoch 179/1000, Train Loss: 0.0015, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_179.pth
+Epoch 180/1000, Train Loss: 0.0013, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_180.pth
+Epoch 181/1000, Train Loss: 0.0013, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_181.pth
+Epoch 182/1000, Train Loss: 0.0014, Val Loss: 0.0120
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_182.pth
+Epoch 183/1000, Train Loss: 0.0015, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_183.pth
+Epoch 184/1000, Train Loss: 0.0014, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_184.pth
+Epoch 185/1000, Train Loss: 0.0015, Val Loss: 0.0117
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_185.pth
+Epoch 186/1000, Train Loss: 0.0015, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_186.pth
+Epoch 187/1000, Train Loss: 0.0014, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_187.pth
+Epoch 188/1000, Train Loss: 0.0013, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_188.pth
+Epoch 189/1000, Train Loss: 0.0014, Val Loss: 0.0107
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_189.pth
+Epoch 190/1000, Train Loss: 0.0015, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_190.pth
+Epoch 191/1000, Train Loss: 0.0014, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_191.pth
+Epoch 192/1000, Train Loss: 0.0013, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_192.pth
+Epoch 193/1000, Train Loss: 0.0013, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_193.pth
+Epoch 194/1000, Train Loss: 0.0014, Val Loss: 0.0115
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_194.pth
+Epoch 195/1000, Train Loss: 0.0013, Val Loss: 0.0112
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_195.pth
+Epoch 196/1000, Train Loss: 0.0013, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_196.pth
+Epoch 197/1000, Train Loss: 0.0012, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_197.pth
+Epoch 198/1000, Train Loss: 0.0013, Val Loss: 0.0120
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_198.pth
+Epoch 199/1000, Train Loss: 0.0014, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_199.pth
+Epoch 200/1000, Train Loss: 0.0012, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_200.pth
+Epoch 201/1000, Train Loss: 0.0013, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_201.pth
+Epoch 202/1000, Train Loss: 0.0012, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_202.pth
+Epoch 203/1000, Train Loss: 0.0012, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_203.pth
+Epoch 204/1000, Train Loss: 0.0012, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_204.pth
+Epoch 205/1000, Train Loss: 0.0012, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_205.pth
+Epoch 206/1000, Train Loss: 0.0012, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_206.pth
+Epoch 207/1000, Train Loss: 0.0011, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_207.pth
+Epoch 208/1000, Train Loss: 0.0012, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_208.pth
+Epoch 209/1000, Train Loss: 0.0011, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_209.pth
+Epoch 210/1000, Train Loss: 0.0012, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_210.pth
+Epoch 211/1000, Train Loss: 0.0012, Val Loss: 0.0189
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_211.pth
+Epoch 212/1000, Train Loss: 0.0012, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_212.pth
+Epoch 213/1000, Train Loss: 0.0011, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_213.pth
+Epoch 214/1000, Train Loss: 0.0011, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_214.pth
+Epoch 215/1000, Train Loss: 0.0013, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_215.pth
+Epoch 216/1000, Train Loss: 0.0010, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_216.pth
+Epoch 217/1000, Train Loss: 0.0012, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_217.pth
+Epoch 218/1000, Train Loss: 0.0011, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_218.pth
+Epoch 219/1000, Train Loss: 0.0011, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_219.pth
+Epoch 220/1000, Train Loss: 0.0009, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_220.pth
+Epoch 221/1000, Train Loss: 0.0011, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_221.pth
+Epoch 222/1000, Train Loss: 0.0011, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_222.pth
+Epoch 223/1000, Train Loss: 0.0011, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_223.pth
+Epoch 224/1000, Train Loss: 0.0012, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_224.pth
+Epoch 225/1000, Train Loss: 0.0010, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_225.pth
+Epoch 226/1000, Train Loss: 0.0010, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_226.pth
+Epoch 227/1000, Train Loss: 0.0010, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_227.pth
+Epoch 228/1000, Train Loss: 0.0010, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_228.pth
+Epoch 229/1000, Train Loss: 0.0011, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_229.pth
+Epoch 230/1000, Train Loss: 0.0010, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_230.pth
+Epoch 231/1000, Train Loss: 0.0009, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_231.pth
+Epoch 232/1000, Train Loss: 0.0009, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_232.pth
+Epoch 233/1000, Train Loss: 0.0011, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_233.pth
+Epoch 234/1000, Train Loss: 0.0010, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_234.pth
+Epoch 235/1000, Train Loss: 0.0010, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_235.pth
+Epoch 236/1000, Train Loss: 0.0010, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_236.pth
+Epoch 237/1000, Train Loss: 0.0010, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_237.pth
+Epoch 238/1000, Train Loss: 0.0009, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_238.pth
+Epoch 239/1000, Train Loss: 0.0010, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_239.pth
+Epoch 240/1000, Train Loss: 0.0009, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_240.pth
+Epoch 241/1000, Train Loss: 0.0010, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_241.pth
+Epoch 242/1000, Train Loss: 0.0010, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_242.pth
+Epoch 243/1000, Train Loss: 0.0009, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_243.pth
+Epoch 244/1000, Train Loss: 0.0009, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_244.pth
+Epoch 245/1000, Train Loss: 0.0009, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_245.pth
+Epoch 246/1000, Train Loss: 0.0008, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_246.pth
+Epoch 247/1000, Train Loss: 0.0009, Val Loss: 0.0184
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_247.pth
+Epoch 248/1000, Train Loss: 0.0009, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_248.pth
+Epoch 249/1000, Train Loss: 0.0009, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_249.pth
+Epoch 250/1000, Train Loss: 0.0009, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_250.pth
+Epoch 251/1000, Train Loss: 0.0009, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_251.pth
+Epoch 252/1000, Train Loss: 0.0011, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_252.pth
+Epoch 253/1000, Train Loss: 0.0009, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_253.pth
+Epoch 254/1000, Train Loss: 0.0008, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_254.pth
+Epoch 255/1000, Train Loss: 0.0009, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_255.pth
+Epoch 256/1000, Train Loss: 0.0010, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_256.pth
+Epoch 257/1000, Train Loss: 0.0009, Val Loss: 0.0186
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_257.pth
+Epoch 258/1000, Train Loss: 0.0009, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_258.pth
+Epoch 259/1000, Train Loss: 0.0008, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_259.pth
+Epoch 260/1000, Train Loss: 0.0008, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_260.pth
+Epoch 261/1000, Train Loss: 0.0008, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_261.pth
+Epoch 262/1000, Train Loss: 0.0009, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_262.pth
+Epoch 263/1000, Train Loss: 0.0009, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_263.pth
+Epoch 264/1000, Train Loss: 0.0008, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_264.pth
+Epoch 265/1000, Train Loss: 0.0009, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_265.pth
+Epoch 266/1000, Train Loss: 0.0008, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_266.pth
+Epoch 267/1000, Train Loss: 0.0008, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_267.pth
+Epoch 268/1000, Train Loss: 0.0008, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_268.pth
+Epoch 269/1000, Train Loss: 0.0008, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_269.pth
+Epoch 270/1000, Train Loss: 0.0008, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_270.pth
+Epoch 271/1000, Train Loss: 0.0008, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_271.pth
+Epoch 272/1000, Train Loss: 0.0008, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_272.pth
+Epoch 273/1000, Train Loss: 0.0008, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_273.pth
+Epoch 274/1000, Train Loss: 0.0008, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_274.pth
+Epoch 275/1000, Train Loss: 0.0007, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_275.pth
+Epoch 276/1000, Train Loss: 0.0008, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_276.pth
+Epoch 277/1000, Train Loss: 0.0007, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_277.pth
+Epoch 278/1000, Train Loss: 0.0008, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_278.pth
+Epoch 279/1000, Train Loss: 0.0009, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_279.pth
+Epoch 280/1000, Train Loss: 0.0007, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_280.pth
+Epoch 281/1000, Train Loss: 0.0008, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_281.pth
+Epoch 282/1000, Train Loss: 0.0008, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_282.pth
+Epoch 283/1000, Train Loss: 0.0007, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_283.pth
+Epoch 284/1000, Train Loss: 0.0007, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_284.pth
+Epoch 285/1000, Train Loss: 0.0009, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_285.pth
+Epoch 286/1000, Train Loss: 0.0007, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_286.pth
+Epoch 287/1000, Train Loss: 0.0007, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_287.pth
+Epoch 288/1000, Train Loss: 0.0007, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_288.pth
+Epoch 289/1000, Train Loss: 0.0007, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_289.pth
+Epoch 290/1000, Train Loss: 0.0007, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_290.pth
+Epoch 291/1000, Train Loss: 0.0008, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_291.pth
+Epoch 292/1000, Train Loss: 0.0008, Val Loss: 0.0177
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_292.pth
+Epoch 293/1000, Train Loss: 0.0007, Val Loss: 0.0177
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_293.pth
+Epoch 294/1000, Train Loss: 0.0008, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_294.pth
+Epoch 295/1000, Train Loss: 0.0008, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_295.pth
+Epoch 296/1000, Train Loss: 0.0007, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_296.pth
+Epoch 297/1000, Train Loss: 0.0008, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_297.pth
+Epoch 298/1000, Train Loss: 0.0008, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_298.pth
+Epoch 299/1000, Train Loss: 0.0007, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_299.pth
+Epoch 300/1000, Train Loss: 0.0007, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_300.pth
+Epoch 301/1000, Train Loss: 0.0008, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_301.pth
+Epoch 302/1000, Train Loss: 0.0007, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_302.pth
+Epoch 303/1000, Train Loss: 0.0008, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_303.pth
+Epoch 304/1000, Train Loss: 0.0008, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_304.pth
+Epoch 305/1000, Train Loss: 0.0007, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_305.pth
+Epoch 306/1000, Train Loss: 0.0007, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_306.pth
+Epoch 307/1000, Train Loss: 0.0007, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_307.pth
+Epoch 308/1000, Train Loss: 0.0007, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_308.pth
+Epoch 309/1000, Train Loss: 0.0006, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_309.pth
+Epoch 310/1000, Train Loss: 0.0007, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_310.pth
+Epoch 311/1000, Train Loss: 0.0007, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_311.pth
+Epoch 312/1000, Train Loss: 0.0007, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_312.pth
+Epoch 313/1000, Train Loss: 0.0007, Val Loss: 0.0198
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_313.pth
+Epoch 314/1000, Train Loss: 0.0007, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_314.pth
+Epoch 315/1000, Train Loss: 0.0006, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_315.pth
+Epoch 316/1000, Train Loss: 0.0007, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_316.pth
+Epoch 317/1000, Train Loss: 0.0007, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_317.pth
+Epoch 318/1000, Train Loss: 0.0008, Val Loss: 0.0190
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_318.pth
+Epoch 319/1000, Train Loss: 0.0006, Val Loss: 0.0180
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_319.pth
+Epoch 320/1000, Train Loss: 0.0007, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_320.pth
+Epoch 321/1000, Train Loss: 0.0007, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_321.pth
+Epoch 322/1000, Train Loss: 0.0007, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_322.pth
+Epoch 323/1000, Train Loss: 0.0006, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_323.pth
+Epoch 324/1000, Train Loss: 0.0006, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_324.pth
+Epoch 325/1000, Train Loss: 0.0006, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_325.pth
+Epoch 326/1000, Train Loss: 0.0006, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_326.pth
+Epoch 327/1000, Train Loss: 0.0007, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_327.pth
+Epoch 328/1000, Train Loss: 0.0006, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_328.pth
+Epoch 329/1000, Train Loss: 0.0006, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_329.pth
+Epoch 330/1000, Train Loss: 0.0006, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_330.pth
+Epoch 331/1000, Train Loss: 0.0007, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_331.pth
+Epoch 332/1000, Train Loss: 0.0007, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_332.pth
+Epoch 333/1000, Train Loss: 0.0005, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_333.pth
+Epoch 334/1000, Train Loss: 0.0006, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_334.pth
+Epoch 335/1000, Train Loss: 0.0005, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_335.pth
+Epoch 336/1000, Train Loss: 0.0006, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_336.pth
+Epoch 337/1000, Train Loss: 0.0006, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_337.pth
+Epoch 338/1000, Train Loss: 0.0007, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_338.pth
+Epoch 339/1000, Train Loss: 0.0006, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_339.pth
+Epoch 340/1000, Train Loss: 0.0006, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_340.pth
+Epoch 341/1000, Train Loss: 0.0006, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_341.pth
+Epoch 342/1000, Train Loss: 0.0006, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_342.pth
+Epoch 343/1000, Train Loss: 0.0006, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_343.pth
+Epoch 344/1000, Train Loss: 0.0006, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_344.pth
+Epoch 345/1000, Train Loss: 0.0006, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_345.pth
+Epoch 346/1000, Train Loss: 0.0006, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_346.pth
+Epoch 347/1000, Train Loss: 0.0006, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_347.pth
+Epoch 348/1000, Train Loss: 0.0005, Val Loss: 0.0186
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_348.pth
+Epoch 349/1000, Train Loss: 0.0006, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_349.pth
+Epoch 350/1000, Train Loss: 0.0006, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_350.pth
+Epoch 351/1000, Train Loss: 0.0006, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_351.pth
+Epoch 352/1000, Train Loss: 0.0005, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_352.pth
+Epoch 353/1000, Train Loss: 0.0006, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_353.pth
+Epoch 354/1000, Train Loss: 0.0005, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_354.pth
+Epoch 355/1000, Train Loss: 0.0005, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_355.pth
+Epoch 356/1000, Train Loss: 0.0005, Val Loss: 0.0177
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_356.pth
+Epoch 357/1000, Train Loss: 0.0005, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_357.pth
+Epoch 358/1000, Train Loss: 0.0005, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_358.pth
+Epoch 359/1000, Train Loss: 0.0006, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_359.pth
+Epoch 360/1000, Train Loss: 0.0006, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_360.pth
+Epoch 361/1000, Train Loss: 0.0006, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_361.pth
+Epoch 362/1000, Train Loss: 0.0005, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_362.pth
+Epoch 363/1000, Train Loss: 0.0005, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_363.pth
+Epoch 364/1000, Train Loss: 0.0006, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_364.pth
+Epoch 365/1000, Train Loss: 0.0006, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_365.pth
+Epoch 366/1000, Train Loss: 0.0006, Val Loss: 0.0179
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_366.pth
+Epoch 367/1000, Train Loss: 0.0006, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_367.pth
+Epoch 368/1000, Train Loss: 0.0006, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_368.pth
+Epoch 369/1000, Train Loss: 0.0005, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_369.pth
+Epoch 370/1000, Train Loss: 0.0005, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_370.pth
+Epoch 371/1000, Train Loss: 0.0006, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_371.pth
+Epoch 372/1000, Train Loss: 0.0005, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_372.pth
+Epoch 373/1000, Train Loss: 0.0005, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_373.pth
+Epoch 374/1000, Train Loss: 0.0006, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_374.pth
+Epoch 375/1000, Train Loss: 0.0006, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_375.pth
+Epoch 376/1000, Train Loss: 0.0006, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_376.pth
+Epoch 377/1000, Train Loss: 0.0006, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_377.pth
+Epoch 378/1000, Train Loss: 0.0006, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_378.pth
+Epoch 379/1000, Train Loss: 0.0006, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_379.pth
+Epoch 380/1000, Train Loss: 0.0005, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_380.pth
+Epoch 381/1000, Train Loss: 0.0005, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_381.pth
+Epoch 382/1000, Train Loss: 0.0005, Val Loss: 0.0183
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_382.pth
+Epoch 383/1000, Train Loss: 0.0006, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_383.pth
+Epoch 384/1000, Train Loss: 0.0005, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_384.pth
+Epoch 385/1000, Train Loss: 0.0006, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_385.pth
+Epoch 386/1000, Train Loss: 0.0006, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_386.pth
+Epoch 387/1000, Train Loss: 0.0005, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_387.pth
+Epoch 388/1000, Train Loss: 0.0005, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_388.pth
+Epoch 389/1000, Train Loss: 0.0006, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_389.pth
+Epoch 390/1000, Train Loss: 0.0007, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_390.pth
+Epoch 391/1000, Train Loss: 0.0006, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_391.pth
+Epoch 392/1000, Train Loss: 0.0006, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_392.pth
+Epoch 393/1000, Train Loss: 0.0006, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_393.pth
+Epoch 394/1000, Train Loss: 0.0005, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_394.pth
+Epoch 395/1000, Train Loss: 0.0005, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_395.pth
+Epoch 396/1000, Train Loss: 0.0005, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_396.pth
+Epoch 397/1000, Train Loss: 0.0005, Val Loss: 0.0188
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_397.pth
+Epoch 398/1000, Train Loss: 0.0005, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_398.pth
+Epoch 399/1000, Train Loss: 0.0005, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_399.pth
+Epoch 400/1000, Train Loss: 0.0005, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_400.pth
+Epoch 401/1000, Train Loss: 0.0005, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_401.pth
+Epoch 402/1000, Train Loss: 0.0004, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_402.pth
+Epoch 403/1000, Train Loss: 0.0005, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_403.pth
+Epoch 404/1000, Train Loss: 0.0005, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_404.pth
+Epoch 405/1000, Train Loss: 0.0006, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_405.pth
+Epoch 406/1000, Train Loss: 0.0005, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_406.pth
+Epoch 407/1000, Train Loss: 0.0004, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_407.pth
+Epoch 408/1000, Train Loss: 0.0005, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_408.pth
+Epoch 409/1000, Train Loss: 0.0005, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_409.pth
+Epoch 410/1000, Train Loss: 0.0005, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_410.pth
+Epoch 411/1000, Train Loss: 0.0005, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_411.pth
+Epoch 412/1000, Train Loss: 0.0005, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_412.pth
+Epoch 413/1000, Train Loss: 0.0005, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_413.pth
+Epoch 414/1000, Train Loss: 0.0005, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_414.pth
+Epoch 415/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_415.pth
+Epoch 416/1000, Train Loss: 0.0005, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_416.pth
+Epoch 417/1000, Train Loss: 0.0005, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_417.pth
+Epoch 418/1000, Train Loss: 0.0006, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_418.pth
+Epoch 419/1000, Train Loss: 0.0006, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_419.pth
+Epoch 420/1000, Train Loss: 0.0005, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_420.pth
+Epoch 421/1000, Train Loss: 0.0005, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_421.pth
+Epoch 422/1000, Train Loss: 0.0005, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_422.pth
+Epoch 423/1000, Train Loss: 0.0005, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_423.pth
+Epoch 424/1000, Train Loss: 0.0005, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_424.pth
+Epoch 425/1000, Train Loss: 0.0005, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_425.pth
+Epoch 426/1000, Train Loss: 0.0005, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_426.pth
+Epoch 427/1000, Train Loss: 0.0005, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_427.pth
+Epoch 428/1000, Train Loss: 0.0005, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_428.pth
+Epoch 429/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_429.pth
+Epoch 430/1000, Train Loss: 0.0005, Val Loss: 0.0179
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_430.pth
+Epoch 431/1000, Train Loss: 0.0005, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_431.pth
+Epoch 432/1000, Train Loss: 0.0005, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_432.pth
+Epoch 433/1000, Train Loss: 0.0005, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_433.pth
+Epoch 434/1000, Train Loss: 0.0005, Val Loss: 0.0176
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_434.pth
+Epoch 435/1000, Train Loss: 0.0005, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_435.pth
+Epoch 436/1000, Train Loss: 0.0005, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_436.pth
+Epoch 437/1000, Train Loss: 0.0005, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_437.pth
+Epoch 438/1000, Train Loss: 0.0005, Val Loss: 0.0185
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_438.pth
+Epoch 439/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_439.pth
+Epoch 440/1000, Train Loss: 0.0006, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_440.pth
+Epoch 441/1000, Train Loss: 0.0005, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_441.pth
+Epoch 442/1000, Train Loss: 0.0004, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_442.pth
+Epoch 443/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_443.pth
+Epoch 444/1000, Train Loss: 0.0005, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_444.pth
+Epoch 445/1000, Train Loss: 0.0005, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_445.pth
+Epoch 446/1000, Train Loss: 0.0005, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_446.pth
+Epoch 447/1000, Train Loss: 0.0004, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_447.pth
+Epoch 448/1000, Train Loss: 0.0005, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_448.pth
+Epoch 449/1000, Train Loss: 0.0005, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_449.pth
+Epoch 450/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_450.pth
+Epoch 451/1000, Train Loss: 0.0005, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_451.pth
+Epoch 452/1000, Train Loss: 0.0005, Val Loss: 0.0182
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_452.pth
+Epoch 453/1000, Train Loss: 0.0004, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_453.pth
+Epoch 454/1000, Train Loss: 0.0005, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_454.pth
+Epoch 455/1000, Train Loss: 0.0005, Val Loss: 0.0180
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_455.pth
+Epoch 456/1000, Train Loss: 0.0005, Val Loss: 0.0179
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_456.pth
+Epoch 457/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_457.pth
+Epoch 458/1000, Train Loss: 0.0005, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_458.pth
+Epoch 459/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_459.pth
+Epoch 460/1000, Train Loss: 0.0005, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_460.pth
+Epoch 461/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_461.pth
+Epoch 462/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_462.pth
+Epoch 463/1000, Train Loss: 0.0004, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_463.pth
+Epoch 464/1000, Train Loss: 0.0004, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_464.pth
+Epoch 465/1000, Train Loss: 0.0005, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_465.pth
+Epoch 466/1000, Train Loss: 0.0004, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_466.pth
+Epoch 467/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_467.pth
+Epoch 468/1000, Train Loss: 0.0005, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_468.pth
+Epoch 469/1000, Train Loss: 0.0005, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_469.pth
+Epoch 470/1000, Train Loss: 0.0005, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_470.pth
+Epoch 471/1000, Train Loss: 0.0004, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_471.pth
+Epoch 472/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_472.pth
+Epoch 473/1000, Train Loss: 0.0005, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_473.pth
+Epoch 474/1000, Train Loss: 0.0005, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_474.pth
+Epoch 475/1000, Train Loss: 0.0004, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_475.pth
+Epoch 476/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_476.pth
+Epoch 477/1000, Train Loss: 0.0004, Val Loss: 0.0177
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_477.pth
+Epoch 478/1000, Train Loss: 0.0004, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_478.pth
+Epoch 479/1000, Train Loss: 0.0004, Val Loss: 0.0183
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_479.pth
+Epoch 480/1000, Train Loss: 0.0005, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_480.pth
+Epoch 481/1000, Train Loss: 0.0004, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_481.pth
+Epoch 482/1000, Train Loss: 0.0004, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_482.pth
+Epoch 483/1000, Train Loss: 0.0004, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_483.pth
+Epoch 484/1000, Train Loss: 0.0004, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_484.pth
+Epoch 485/1000, Train Loss: 0.0005, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_485.pth
+Epoch 486/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_486.pth
+Epoch 487/1000, Train Loss: 0.0005, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_487.pth
+Epoch 488/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_488.pth
+Epoch 489/1000, Train Loss: 0.0005, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_489.pth
+Epoch 490/1000, Train Loss: 0.0004, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_490.pth
+Epoch 491/1000, Train Loss: 0.0004, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_491.pth
+Epoch 492/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_492.pth
+Epoch 493/1000, Train Loss: 0.0004, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_493.pth
+Epoch 494/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_494.pth
+Epoch 495/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_495.pth
+Epoch 496/1000, Train Loss: 0.0004, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_496.pth
+Epoch 497/1000, Train Loss: 0.0004, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_497.pth
+Epoch 498/1000, Train Loss: 0.0004, Val Loss: 0.0177
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_498.pth
+Epoch 499/1000, Train Loss: 0.0004, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_499.pth
+Epoch 500/1000, Train Loss: 0.0004, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_500.pth
+Epoch 501/1000, Train Loss: 0.0004, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_501.pth
+Epoch 502/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_502.pth
+Epoch 503/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_503.pth
+Epoch 504/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_504.pth
+Epoch 505/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_505.pth
+Epoch 506/1000, Train Loss: 0.0003, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_506.pth
+Epoch 507/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_507.pth
+Epoch 508/1000, Train Loss: 0.0004, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_508.pth
+Epoch 509/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_509.pth
+Epoch 510/1000, Train Loss: 0.0004, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_510.pth
+Epoch 511/1000, Train Loss: 0.0004, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_511.pth
+Epoch 512/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_512.pth
+Epoch 513/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_513.pth
+Epoch 514/1000, Train Loss: 0.0005, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_514.pth
+Epoch 515/1000, Train Loss: 0.0006, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_515.pth
+Epoch 516/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_516.pth
+Epoch 517/1000, Train Loss: 0.0004, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_517.pth
+Epoch 518/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_518.pth
+Epoch 519/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_519.pth
+Epoch 520/1000, Train Loss: 0.0004, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_520.pth
+Epoch 521/1000, Train Loss: 0.0004, Val Loss: 0.0174
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_521.pth
+Epoch 522/1000, Train Loss: 0.0004, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_522.pth
+Epoch 523/1000, Train Loss: 0.0004, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_523.pth
+Epoch 524/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_524.pth
+Epoch 525/1000, Train Loss: 0.0004, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_525.pth
+Epoch 526/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_526.pth
+Epoch 527/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_527.pth
+Epoch 528/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_528.pth
+Epoch 529/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_529.pth
+Epoch 530/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_530.pth
+Epoch 531/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_531.pth
+Epoch 532/1000, Train Loss: 0.0003, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_532.pth
+Epoch 533/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_533.pth
+Epoch 534/1000, Train Loss: 0.0004, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_534.pth
+Epoch 535/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_535.pth
+Epoch 536/1000, Train Loss: 0.0004, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_536.pth
+Epoch 537/1000, Train Loss: 0.0004, Val Loss: 0.0178
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_537.pth
+Epoch 538/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_538.pth
+Epoch 539/1000, Train Loss: 0.0004, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_539.pth
+Epoch 540/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_540.pth
+Epoch 541/1000, Train Loss: 0.0004, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_541.pth
+Epoch 542/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_542.pth
+Epoch 543/1000, Train Loss: 0.0003, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_543.pth
+Epoch 544/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_544.pth
+Epoch 545/1000, Train Loss: 0.0004, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_545.pth
+Epoch 546/1000, Train Loss: 0.0004, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_546.pth
+Epoch 547/1000, Train Loss: 0.0005, Val Loss: 0.0195
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_547.pth
+Epoch 548/1000, Train Loss: 0.0005, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_548.pth
+Epoch 549/1000, Train Loss: 0.0004, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_549.pth
+Epoch 550/1000, Train Loss: 0.0004, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_550.pth
+Epoch 551/1000, Train Loss: 0.0004, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_551.pth
+Epoch 552/1000, Train Loss: 0.0004, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_552.pth
+Epoch 553/1000, Train Loss: 0.0004, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_553.pth
+Epoch 554/1000, Train Loss: 0.0004, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_554.pth
+Epoch 555/1000, Train Loss: 0.0004, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_555.pth
+Epoch 556/1000, Train Loss: 0.0003, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_556.pth
+Epoch 557/1000, Train Loss: 0.0004, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_557.pth
+Epoch 558/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_558.pth
+Epoch 559/1000, Train Loss: 0.0004, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_559.pth
+Epoch 560/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_560.pth
+Epoch 561/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_561.pth
+Epoch 562/1000, Train Loss: 0.0004, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_562.pth
+Epoch 563/1000, Train Loss: 0.0004, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_563.pth
+Epoch 564/1000, Train Loss: 0.0004, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_564.pth
+Epoch 565/1000, Train Loss: 0.0004, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_565.pth
+Epoch 566/1000, Train Loss: 0.0004, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_566.pth
+Epoch 567/1000, Train Loss: 0.0003, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_567.pth
+Epoch 568/1000, Train Loss: 0.0004, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_568.pth
+Epoch 569/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_569.pth
+Epoch 570/1000, Train Loss: 0.0004, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_570.pth
+Epoch 571/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_571.pth
+Epoch 572/1000, Train Loss: 0.0004, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_572.pth
+Epoch 573/1000, Train Loss: 0.0004, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_573.pth
+Epoch 574/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_574.pth
+Epoch 575/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_575.pth
+Epoch 576/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_576.pth
+Epoch 577/1000, Train Loss: 0.0004, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_577.pth
+Epoch 578/1000, Train Loss: 0.0004, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_578.pth
+Epoch 579/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_579.pth
+Epoch 580/1000, Train Loss: 0.0004, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_580.pth
+Epoch 581/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_581.pth
+Epoch 582/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_582.pth
+Epoch 583/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_583.pth
+Epoch 584/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_584.pth
+Epoch 585/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_585.pth
+Epoch 586/1000, Train Loss: 0.0003, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_586.pth
+Epoch 587/1000, Train Loss: 0.0003, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_587.pth
+Epoch 588/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_588.pth
+Epoch 589/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_589.pth
+Epoch 590/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_590.pth
+Epoch 591/1000, Train Loss: 0.0004, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_591.pth
+Epoch 592/1000, Train Loss: 0.0004, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_592.pth
+Epoch 593/1000, Train Loss: 0.0004, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_593.pth
+Epoch 594/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_594.pth
+Epoch 595/1000, Train Loss: 0.0003, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_595.pth
+Epoch 596/1000, Train Loss: 0.0003, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_596.pth
+Epoch 597/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_597.pth
+Epoch 598/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_598.pth
+Epoch 599/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_599.pth
+Epoch 600/1000, Train Loss: 0.0003, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_600.pth
+Epoch 601/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_601.pth
+Epoch 602/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_602.pth
+Epoch 603/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_603.pth
+Epoch 604/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_604.pth
+Epoch 605/1000, Train Loss: 0.0003, Val Loss: 0.0162
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_605.pth
+Epoch 606/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_606.pth
+Epoch 607/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_607.pth
+Epoch 608/1000, Train Loss: 0.0004, Val Loss: 0.0173
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_608.pth
+Epoch 609/1000, Train Loss: 0.0004, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_609.pth
+Epoch 610/1000, Train Loss: 0.0004, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_610.pth
+Epoch 611/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_611.pth
+Epoch 612/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_612.pth
+Epoch 613/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_613.pth
+Epoch 614/1000, Train Loss: 0.0003, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_614.pth
+Epoch 615/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_615.pth
+Epoch 616/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_616.pth
+Epoch 617/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_617.pth
+Epoch 618/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_618.pth
+Epoch 619/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_619.pth
+Epoch 620/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_620.pth
+Epoch 621/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_621.pth
+Epoch 622/1000, Train Loss: 0.0004, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_622.pth
+Epoch 623/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_623.pth
+Epoch 624/1000, Train Loss: 0.0004, Val Loss: 0.0172
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_624.pth
+Epoch 625/1000, Train Loss: 0.0004, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_625.pth
+Epoch 626/1000, Train Loss: 0.0004, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_626.pth
+Epoch 627/1000, Train Loss: 0.0003, Val Loss: 0.0175
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_627.pth
+Epoch 628/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_628.pth
+Epoch 629/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_629.pth
+Epoch 630/1000, Train Loss: 0.0004, Val Loss: 0.0170
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_630.pth
+Epoch 631/1000, Train Loss: 0.0004, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_631.pth
+Epoch 632/1000, Train Loss: 0.0004, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_632.pth
+Epoch 633/1000, Train Loss: 0.0003, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_633.pth
+Epoch 634/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_634.pth
+Epoch 635/1000, Train Loss: 0.0003, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_635.pth
+Epoch 636/1000, Train Loss: 0.0003, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_636.pth
+Epoch 637/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_637.pth
+Epoch 638/1000, Train Loss: 0.0004, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_638.pth
+Epoch 639/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_639.pth
+Epoch 640/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_640.pth
+Epoch 641/1000, Train Loss: 0.0003, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_641.pth
+Epoch 642/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_642.pth
+Epoch 643/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_643.pth
+Epoch 644/1000, Train Loss: 0.0004, Val Loss: 0.0166
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_644.pth
+Epoch 645/1000, Train Loss: 0.0004, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_645.pth
+Epoch 646/1000, Train Loss: 0.0003, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_646.pth
+Epoch 647/1000, Train Loss: 0.0004, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_647.pth
+Epoch 648/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_648.pth
+Epoch 649/1000, Train Loss: 0.0004, Val Loss: 0.0183
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_649.pth
+Epoch 650/1000, Train Loss: 0.0004, Val Loss: 0.0167
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_650.pth
+Epoch 651/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_651.pth
+Epoch 652/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_652.pth
+Epoch 653/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_653.pth
+Epoch 654/1000, Train Loss: 0.0003, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_654.pth
+Epoch 655/1000, Train Loss: 0.0003, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_655.pth
+Epoch 656/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_656.pth
+Epoch 657/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_657.pth
+Epoch 658/1000, Train Loss: 0.0003, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_658.pth
+Epoch 659/1000, Train Loss: 0.0003, Val Loss: 0.0169
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_659.pth
+Epoch 660/1000, Train Loss: 0.0003, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_660.pth
+Epoch 661/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_661.pth
+Epoch 662/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_662.pth
+Epoch 663/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_663.pth
+Epoch 664/1000, Train Loss: 0.0003, Val Loss: 0.0171
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_664.pth
+Epoch 665/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_665.pth
+Epoch 666/1000, Train Loss: 0.0003, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_666.pth
+Epoch 667/1000, Train Loss: 0.0004, Val Loss: 0.0168
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_667.pth
+Epoch 668/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_668.pth
+Epoch 669/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_669.pth
+Epoch 670/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_670.pth
+Epoch 671/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_671.pth
+Epoch 672/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_672.pth
+Epoch 673/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_673.pth
+Epoch 674/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_674.pth
+Epoch 675/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_675.pth
+Epoch 676/1000, Train Loss: 0.0004, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_676.pth
+Epoch 677/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_677.pth
+Epoch 678/1000, Train Loss: 0.0003, Val Loss: 0.0164
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_678.pth
+Epoch 679/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_679.pth
+Epoch 680/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_680.pth
+Epoch 681/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_681.pth
+Epoch 682/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_682.pth
+Epoch 683/1000, Train Loss: 0.0003, Val Loss: 0.0155
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_683.pth
+Epoch 684/1000, Train Loss: 0.0003, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_684.pth
+Epoch 685/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_685.pth
+Epoch 686/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_686.pth
+Epoch 687/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_687.pth
+Epoch 688/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_688.pth
+Epoch 689/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_689.pth
+Epoch 690/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_690.pth
+Epoch 691/1000, Train Loss: 0.0003, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_691.pth
+Epoch 692/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_692.pth
+Epoch 693/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_693.pth
+Epoch 694/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_694.pth
+Epoch 695/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_695.pth
+Epoch 696/1000, Train Loss: 0.0003, Val Loss: 0.0165
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_696.pth
+Epoch 697/1000, Train Loss: 0.0003, Val Loss: 0.0163
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_697.pth
+Epoch 698/1000, Train Loss: 0.0003, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_698.pth
+Epoch 699/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_699.pth
+Epoch 700/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_700.pth
+Epoch 701/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_701.pth
+Epoch 702/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_702.pth
+Epoch 703/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_703.pth
+Epoch 704/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_704.pth
+Epoch 705/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_705.pth
+Epoch 706/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_706.pth
+Epoch 707/1000, Train Loss: 0.0003, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_707.pth
+Epoch 708/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_708.pth
+Epoch 709/1000, Train Loss: 0.0004, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_709.pth
+Epoch 710/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_710.pth
+Epoch 711/1000, Train Loss: 0.0003, Val Loss: 0.0161
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_711.pth
+Epoch 712/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_712.pth
+Epoch 713/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_713.pth
+Epoch 714/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_714.pth
+Epoch 715/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_715.pth
+Epoch 716/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_716.pth
+Epoch 717/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_717.pth
+Epoch 718/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_718.pth
+Epoch 719/1000, Train Loss: 0.0003, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_719.pth
+Epoch 720/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_720.pth
+Epoch 721/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_721.pth
+Epoch 722/1000, Train Loss: 0.0003, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_722.pth
+Epoch 723/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_723.pth
+Epoch 724/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_724.pth
+Epoch 725/1000, Train Loss: 0.0002, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_725.pth
+Epoch 726/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_726.pth
+Epoch 727/1000, Train Loss: 0.0003, Val Loss: 0.0159
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_727.pth
+Epoch 728/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_728.pth
+Epoch 729/1000, Train Loss: 0.0003, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_729.pth
+Epoch 730/1000, Train Loss: 0.0004, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_730.pth
+Epoch 731/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_731.pth
+Epoch 732/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_732.pth
+Epoch 733/1000, Train Loss: 0.0003, Val Loss: 0.0154
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_733.pth
+Epoch 734/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_734.pth
+Epoch 735/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_735.pth
+Epoch 736/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_736.pth
+Epoch 737/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_737.pth
+Epoch 738/1000, Train Loss: 0.0002, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_738.pth
+Epoch 739/1000, Train Loss: 0.0003, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_739.pth
+Epoch 740/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_740.pth
+Epoch 741/1000, Train Loss: 0.0003, Val Loss: 0.0153
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_741.pth
+Epoch 742/1000, Train Loss: 0.0003, Val Loss: 0.0158
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_742.pth
+Epoch 743/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_743.pth
+Epoch 744/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_744.pth
+Epoch 745/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_745.pth
+Epoch 746/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_746.pth
+Epoch 747/1000, Train Loss: 0.0003, Val Loss: 0.0160
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_747.pth
+Epoch 748/1000, Train Loss: 0.0004, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_748.pth
+Epoch 749/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_749.pth
+Epoch 750/1000, Train Loss: 0.0003, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_750.pth
+Epoch 751/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_751.pth
+Epoch 752/1000, Train Loss: 0.0003, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_752.pth
+Epoch 753/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_753.pth
+Epoch 754/1000, Train Loss: 0.0002, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_754.pth
+Epoch 755/1000, Train Loss: 0.0003, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_755.pth
+Epoch 756/1000, Train Loss: 0.0003, Val Loss: 0.0157
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_756.pth
+Epoch 757/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_757.pth
+Epoch 758/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_758.pth
+Epoch 759/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_759.pth
+Epoch 760/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_760.pth
+Epoch 761/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_761.pth
+Epoch 762/1000, Train Loss: 0.0003, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_762.pth
+Epoch 763/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_763.pth
+Epoch 764/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_764.pth
+Epoch 765/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_765.pth
+Epoch 766/1000, Train Loss: 0.0003, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_766.pth
+Epoch 767/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_767.pth
+Epoch 768/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_768.pth
+Epoch 769/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_769.pth
+Epoch 770/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_770.pth
+Epoch 771/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_771.pth
+Epoch 772/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_772.pth
+Epoch 773/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_773.pth
+Epoch 774/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_774.pth
+Epoch 775/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_775.pth
+Epoch 776/1000, Train Loss: 0.0003, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_776.pth
+Epoch 777/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_777.pth
+Epoch 778/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_778.pth
+Epoch 779/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_779.pth
+Epoch 780/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_780.pth
+Epoch 781/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_781.pth
+Epoch 782/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_782.pth
+Epoch 783/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_783.pth
+Epoch 784/1000, Train Loss: 0.0003, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_784.pth
+Epoch 785/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_785.pth
+Epoch 786/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_786.pth
+Epoch 787/1000, Train Loss: 0.0003, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_787.pth
+Epoch 788/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_788.pth
+Epoch 789/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_789.pth
+Epoch 790/1000, Train Loss: 0.0004, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_790.pth
+Epoch 791/1000, Train Loss: 0.0003, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_791.pth
+Epoch 792/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_792.pth
+Epoch 793/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_793.pth
+Epoch 794/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_794.pth
+Epoch 795/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_795.pth
+Epoch 796/1000, Train Loss: 0.0003, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_796.pth
+Epoch 797/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_797.pth
+Epoch 798/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_798.pth
+Epoch 799/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_799.pth
+Epoch 800/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_800.pth
+Epoch 801/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_801.pth
+Epoch 802/1000, Train Loss: 0.0003, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_802.pth
+Epoch 803/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_803.pth
+Epoch 804/1000, Train Loss: 0.0003, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_804.pth
+Epoch 805/1000, Train Loss: 0.0002, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_805.pth
+Epoch 806/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_806.pth
+Epoch 807/1000, Train Loss: 0.0002, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_807.pth
+Epoch 808/1000, Train Loss: 0.0003, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_808.pth
+Epoch 809/1000, Train Loss: 0.0002, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_809.pth
+Epoch 810/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_810.pth
+Epoch 811/1000, Train Loss: 0.0003, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_811.pth
+Epoch 812/1000, Train Loss: 0.0003, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_812.pth
+Epoch 813/1000, Train Loss: 0.0003, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_813.pth
+Epoch 814/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_814.pth
+Epoch 815/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_815.pth
+Epoch 816/1000, Train Loss: 0.0003, Val Loss: 0.0122
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_816.pth
+Epoch 817/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_817.pth
+Epoch 818/1000, Train Loss: 0.0003, Val Loss: 0.0156
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_818.pth
+Epoch 819/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_819.pth
+Epoch 820/1000, Train Loss: 0.0003, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_820.pth
+Epoch 821/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_821.pth
+Epoch 822/1000, Train Loss: 0.0003, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_822.pth
+Epoch 823/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_823.pth
+Epoch 824/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_824.pth
+Epoch 825/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_825.pth
+Epoch 826/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_826.pth
+Epoch 827/1000, Train Loss: 0.0003, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_827.pth
+Epoch 828/1000, Train Loss: 0.0003, Val Loss: 0.0147
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_828.pth
+Epoch 829/1000, Train Loss: 0.0003, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_829.pth
+Epoch 830/1000, Train Loss: 0.0002, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_830.pth
+Epoch 831/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_831.pth
+Epoch 832/1000, Train Loss: 0.0002, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_832.pth
+Epoch 833/1000, Train Loss: 0.0002, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_833.pth
+Epoch 834/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_834.pth
+Epoch 835/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_835.pth
+Epoch 836/1000, Train Loss: 0.0002, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_836.pth
+Epoch 837/1000, Train Loss: 0.0002, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_837.pth
+Epoch 838/1000, Train Loss: 0.0002, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_838.pth
+Epoch 839/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_839.pth
+Epoch 840/1000, Train Loss: 0.0002, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_840.pth
+Epoch 841/1000, Train Loss: 0.0002, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_841.pth
+Epoch 842/1000, Train Loss: 0.0002, Val Loss: 0.0146
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_842.pth
+Epoch 843/1000, Train Loss: 0.0002, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_843.pth
+Epoch 844/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_844.pth
+Epoch 845/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_845.pth
+Epoch 846/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_846.pth
+Epoch 847/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_847.pth
+Epoch 848/1000, Train Loss: 0.0002, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_848.pth
+Epoch 849/1000, Train Loss: 0.0002, Val Loss: 0.0152
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_849.pth
+Epoch 850/1000, Train Loss: 0.0003, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_850.pth
+Epoch 851/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_851.pth
+Epoch 852/1000, Train Loss: 0.0002, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_852.pth
+Epoch 853/1000, Train Loss: 0.0003, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_853.pth
+Epoch 854/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_854.pth
+Epoch 855/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_855.pth
+Epoch 856/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_856.pth
+Epoch 857/1000, Train Loss: 0.0003, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_857.pth
+Epoch 858/1000, Train Loss: 0.0003, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_858.pth
+Epoch 859/1000, Train Loss: 0.0002, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_859.pth
+Epoch 860/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_860.pth
+Epoch 861/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_861.pth
+Epoch 862/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_862.pth
+Epoch 863/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_863.pth
+Epoch 864/1000, Train Loss: 0.0002, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_864.pth
+Epoch 865/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_865.pth
+Epoch 866/1000, Train Loss: 0.0002, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_866.pth
+Epoch 867/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_867.pth
+Epoch 868/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_868.pth
+Epoch 869/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_869.pth
+Epoch 870/1000, Train Loss: 0.0003, Val Loss: 0.0151
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_870.pth
+Epoch 871/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_871.pth
+Epoch 872/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_872.pth
+Epoch 873/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_873.pth
+Epoch 874/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_874.pth
+Epoch 875/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_875.pth
+Epoch 876/1000, Train Loss: 0.0002, Val Loss: 0.0144
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_876.pth
+Epoch 877/1000, Train Loss: 0.0003, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_877.pth
+Epoch 878/1000, Train Loss: 0.0003, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_878.pth
+Epoch 879/1000, Train Loss: 0.0002, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_879.pth
+Epoch 880/1000, Train Loss: 0.0002, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_880.pth
+Epoch 881/1000, Train Loss: 0.0002, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_881.pth
+Epoch 882/1000, Train Loss: 0.0002, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_882.pth
+Epoch 883/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_883.pth
+Epoch 884/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_884.pth
+Epoch 885/1000, Train Loss: 0.0002, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_885.pth
+Epoch 886/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_886.pth
+Epoch 887/1000, Train Loss: 0.0002, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_887.pth
+Epoch 888/1000, Train Loss: 0.0002, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_888.pth
+Epoch 889/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_889.pth
+Epoch 890/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_890.pth
+Epoch 891/1000, Train Loss: 0.0002, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_891.pth
+Epoch 892/1000, Train Loss: 0.0002, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_892.pth
+Epoch 893/1000, Train Loss: 0.0003, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_893.pth
+Epoch 894/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_894.pth
+Epoch 895/1000, Train Loss: 0.0003, Val Loss: 0.0142
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_895.pth
+Epoch 896/1000, Train Loss: 0.0003, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_896.pth
+Epoch 897/1000, Train Loss: 0.0002, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_897.pth
+Epoch 898/1000, Train Loss: 0.0003, Val Loss: 0.0149
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_898.pth
+Epoch 899/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_899.pth
+Epoch 900/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_900.pth
+Epoch 901/1000, Train Loss: 0.0003, Val Loss: 0.0150
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_901.pth
+Epoch 902/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_902.pth
+Epoch 903/1000, Train Loss: 0.0002, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_903.pth
+Epoch 904/1000, Train Loss: 0.0002, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_904.pth
+Epoch 905/1000, Train Loss: 0.0002, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_905.pth
+Epoch 906/1000, Train Loss: 0.0002, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_906.pth
+Epoch 907/1000, Train Loss: 0.0002, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_907.pth
+Epoch 908/1000, Train Loss: 0.0003, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_908.pth
+Epoch 909/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_909.pth
+Epoch 910/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_910.pth
+Epoch 911/1000, Train Loss: 0.0002, Val Loss: 0.0122
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_911.pth
+Epoch 912/1000, Train Loss: 0.0003, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_912.pth
+Epoch 913/1000, Train Loss: 0.0003, Val Loss: 0.0143
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_913.pth
+Epoch 914/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_914.pth
+Epoch 915/1000, Train Loss: 0.0002, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_915.pth
+Epoch 916/1000, Train Loss: 0.0002, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_916.pth
+Epoch 917/1000, Train Loss: 0.0002, Val Loss: 0.0138
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_917.pth
+Epoch 918/1000, Train Loss: 0.0002, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_918.pth
+Epoch 919/1000, Train Loss: 0.0002, Val Loss: 0.0122
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_919.pth
+Epoch 920/1000, Train Loss: 0.0003, Val Loss: 0.0122
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_920.pth
+Epoch 921/1000, Train Loss: 0.0002, Val Loss: 0.0134
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_921.pth
+Epoch 922/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_922.pth
+Epoch 923/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_923.pth
+Epoch 924/1000, Train Loss: 0.0003, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_924.pth
+Epoch 925/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_925.pth
+Epoch 926/1000, Train Loss: 0.0003, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_926.pth
+Epoch 927/1000, Train Loss: 0.0003, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_927.pth
+Epoch 928/1000, Train Loss: 0.0002, Val Loss: 0.0141
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_928.pth
+Epoch 929/1000, Train Loss: 0.0002, Val Loss: 0.0120
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_929.pth
+Epoch 930/1000, Train Loss: 0.0002, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_930.pth
+Epoch 931/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_931.pth
+Epoch 932/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_932.pth
+Epoch 933/1000, Train Loss: 0.0002, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_933.pth
+Epoch 934/1000, Train Loss: 0.0002, Val Loss: 0.0148
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_934.pth
+Epoch 935/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_935.pth
+Epoch 936/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_936.pth
+Epoch 937/1000, Train Loss: 0.0002, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_937.pth
+Epoch 938/1000, Train Loss: 0.0002, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_938.pth
+Epoch 939/1000, Train Loss: 0.0002, Val Loss: 0.0113
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_939.pth
+Epoch 940/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_940.pth
+Epoch 941/1000, Train Loss: 0.0002, Val Loss: 0.0118
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_941.pth
+Epoch 942/1000, Train Loss: 0.0002, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_942.pth
+Epoch 943/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_943.pth
+Epoch 944/1000, Train Loss: 0.0003, Val Loss: 0.0139
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_944.pth
+Epoch 945/1000, Train Loss: 0.0002, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_945.pth
+Epoch 946/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_946.pth
+Epoch 947/1000, Train Loss: 0.0002, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_947.pth
+Epoch 948/1000, Train Loss: 0.0002, Val Loss: 0.0145
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_948.pth
+Epoch 949/1000, Train Loss: 0.0003, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_949.pth
+Epoch 950/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_950.pth
+Epoch 951/1000, Train Loss: 0.0003, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_951.pth
+Epoch 952/1000, Train Loss: 0.0003, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_952.pth
+Epoch 953/1000, Train Loss: 0.0003, Val Loss: 0.0125
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_953.pth
+Epoch 954/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_954.pth
+Epoch 955/1000, Train Loss: 0.0002, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_955.pth
+Epoch 956/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_956.pth
+Epoch 957/1000, Train Loss: 0.0002, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_957.pth
+Epoch 958/1000, Train Loss: 0.0002, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_958.pth
+Epoch 959/1000, Train Loss: 0.0002, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_959.pth
+Epoch 960/1000, Train Loss: 0.0003, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_960.pth
+Epoch 961/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_961.pth
+Epoch 962/1000, Train Loss: 0.0002, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_962.pth
+Epoch 963/1000, Train Loss: 0.0002, Val Loss: 0.0132
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_963.pth
+Epoch 964/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_964.pth
+Epoch 965/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_965.pth
+Epoch 966/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_966.pth
+Epoch 967/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_967.pth
+Epoch 968/1000, Train Loss: 0.0002, Val Loss: 0.0127
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_968.pth
+Epoch 969/1000, Train Loss: 0.0002, Val Loss: 0.0117
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_969.pth
+Epoch 970/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_970.pth
+Epoch 971/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_971.pth
+Epoch 972/1000, Train Loss: 0.0002, Val Loss: 0.0140
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_972.pth
+Epoch 973/1000, Train Loss: 0.0002, Val Loss: 0.0124
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_973.pth
+Epoch 974/1000, Train Loss: 0.0002, Val Loss: 0.0135
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_974.pth
+Epoch 975/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_975.pth
+Epoch 976/1000, Train Loss: 0.0002, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_976.pth
+Epoch 977/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_977.pth
+Epoch 978/1000, Train Loss: 0.0002, Val Loss: 0.0117
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_978.pth
+Epoch 979/1000, Train Loss: 0.0002, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_979.pth
+Epoch 980/1000, Train Loss: 0.0002, Val Loss: 0.0137
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_980.pth
+Epoch 981/1000, Train Loss: 0.0003, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_981.pth
+Epoch 982/1000, Train Loss: 0.0002, Val Loss: 0.0114
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_982.pth
+Epoch 983/1000, Train Loss: 0.0002, Val Loss: 0.0118
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_983.pth
+Epoch 984/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_984.pth
+Epoch 985/1000, Train Loss: 0.0002, Val Loss: 0.0133
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_985.pth
+Epoch 986/1000, Train Loss: 0.0002, Val Loss: 0.0129
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_986.pth
+Epoch 987/1000, Train Loss: 0.0002, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_987.pth
+Epoch 988/1000, Train Loss: 0.0002, Val Loss: 0.0116
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_988.pth
+Epoch 989/1000, Train Loss: 0.0002, Val Loss: 0.0128
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_989.pth
+Epoch 990/1000, Train Loss: 0.0002, Val Loss: 0.0117
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_990.pth
+Epoch 991/1000, Train Loss: 0.0002, Val Loss: 0.0123
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_991.pth
+Epoch 992/1000, Train Loss: 0.0003, Val Loss: 0.0130
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_992.pth
+Epoch 993/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_993.pth
+Epoch 994/1000, Train Loss: 0.0002, Val Loss: 0.0121
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_994.pth
+Epoch 995/1000, Train Loss: 0.0002, Val Loss: 0.0136
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_995.pth
+Epoch 996/1000, Train Loss: 0.0002, Val Loss: 0.0126
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_996.pth
+Epoch 997/1000, Train Loss: 0.0002, Val Loss: 0.0120
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_997.pth
+Epoch 998/1000, Train Loss: 0.0002, Val Loss: 0.0131
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_998.pth
+Epoch 999/1000, Train Loss: 0.0002, Val Loss: 0.0113
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_999.pth
+Epoch 1000/1000, Train Loss: 0.0002, Val Loss: 0.0119
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_epoch_1000.pth
+Model weights saved to ./output/LSTM2CNN/LSTM2CNN_adam_64_1000/model/LSTM2CNN_latest.pth
+Testing model...
+Testing complete.

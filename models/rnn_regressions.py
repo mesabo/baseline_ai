@@ -114,7 +114,8 @@ class RunRNNModel:
             df, target_col, look_back, forecast_period)
 
         # Define model parameters
-        input_size = X_train.shape[2]  # Todo: What's exactly shape[2]
+        input_size = X_train.shape[
+            2]  # Todo: What's exactly shape[2]--> for 5back:2next->(725,5,11): 725 items, 5 rows for each item, 11 columns for each row
         lstm_hidden_size = 64
         lstm_num_layers = 2
         bidirectional = False  # Change as needed
@@ -127,7 +128,7 @@ class RunRNNModel:
             hidden_size=lstm_hidden_size,
             num_layers=lstm_num_layers,
             output_size=forecast_period,
-            dropout=0.1,  # Optional dropout
+            dropout=0.3,  # Optional dropout
             bidirectional=bidirectional
         )
         else:
@@ -137,7 +138,7 @@ class RunRNNModel:
                 lstm_num_layers=lstm_num_layers,
                 cnn_input_size=cnn_input_size,
                 output_size=forecast_period,
-                dropout=0.1,  # Optional dropout
+                dropout=0.3,  # Optional dropout
                 bidirectional=bidirectional
             )
         model.to(self.device)
@@ -154,7 +155,7 @@ class RunRNNModel:
         else:
             print("Starting training...")
             criterion = nn.MSELoss()
-            optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+            optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
             train_loader = torch.utils.data.DataLoader(
                 torch.utils.data.TensorDataset(torch.tensor(X_train), torch.tensor(y_train)),
                 batch_size=self.args.batch_size, shuffle=True)

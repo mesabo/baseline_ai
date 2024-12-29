@@ -19,12 +19,12 @@ cd "$SCRIPT_DIR" || exit
 
 # Configuration parameters
 OPTIM="adam"                         # Optimizer (e.g., "adam", "sgd")
-BS="16"                              # Batch size
-EPOCH="90"                          # Number of epochs
+BS="64"                              # Batch size
+EPOCH="100"                          # Number of epochs
 MODEL_NAME="LSTM2CNN"                   # Model type (e.g., "LSTM", "GRU", "CNNConv1", etc.)
 GPU="0"                              # GPU device ID (e.g., "0", "1")
-LOOKBACK_DAYS="6"                   # Number of lookback days (input window size)
-FORECAST_DAYS="1"                   # Number of forecast days (output size)
+LOOKBACK_DAYS="30"                   # Number of lookback days (input window size)
+FORECAST_DAYS="10"                   # Number of forecast days (output size)
 TARGET_COLUMN="Yield (kg)"           # Target column name in the dataset
 RUNNING_MODE="train_val"             # Execution mode: train/validate and test (train_val) or test only (test)
 DATASET_PATH="./data/synthetic_fishing_data.csv"  # Dataset file path
